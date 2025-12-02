@@ -1,0 +1,13635 @@
+=== Year 2025 Day 1 ===
+
+45
+boobs
+
+
+
+rotating -44
+ok: 0
+6
+rotating 26
+ok: 0
+32
+rotating -38
+ok: 1
+94
+rotating 44
+ok: 1
+38
+rotating 3
+ok: 0
+41
+rotating 1
+ok: 0
+42
+rotating 49
+ok: 0
+91
+rotating 14
+ok: 1
+5
+rotating 18
+ok: 0
+23
+rotating -9
+ok: 0
+14
+rotating -35
+ok: 1
+79
+rotating -34
+ok: 0
+45
+rotating -11
+ok: 0
+34
+rotating 12
+ok: 0
+46
+rotating -43
+ok: 0
+3
+rotating 36
+ok: 0
+39
+rotating -10
+ok: 0
+29
+rotating -50
+ok: 1
+79
+rotating -46
+ok: 0
+33
+rotating 47
+ok: 0
+80
+rotating 46
+ok: 1
+26
+rotating -44
+ok: 1
+82
+rotating -36
+ok: 0
+46
+rotating -37
+ok: 0
+9
+rotating -8
+ok: 0
+1
+rotating -49
+ok: 1
+52
+rotating -20
+ok: 0
+32
+rotating 6
+ok: 0
+38
+rotating -20
+ok: 0
+18
+rotating -14
+ok: 0
+4
+rotating 30
+ok: 0
+34
+rotating -33
+ok: 0
+1
+rotating 48
+ok: 0
+49
+rotating -13
+ok: 0
+36
+rotating -11
+ok: 0
+25
+rotating 48
+ok: 0
+73
+rotating -28
+ok: 0
+45
+rotating 22
+ok: 0
+67
+rotating -15
+ok: 0
+52
+rotating -2
+ok: 0
+50
+rotating 50
+ok: 1
+0
+rotating -42
+ok: 1
+58
+rotating -10
+ok: 0
+48
+rotating -14
+ok: 0
+34
+rotating 15
+ok: 0
+49
+rotating 32
+ok: 0
+81
+rotating -13
+ok: 0
+68
+rotating 12
+ok: 0
+80
+rotating 46
+ok: 1
+26
+rotating 52
+ok: 0
+78
+rotating -7
+ok: 0
+71
+rotating -34
+ok: 0
+37
+rotating -27
+ok: 0
+10
+rotating 90
+ok: 1
+0
+rotating 96
+ok: 0
+96
+rotating -96
+ok: 0
+0
+rotating -97
+ok: 1
+3
+rotating 97
+ok: 1
+0
+rotating 48
+ok: 0
+48
+rotating 81
+ok: 1
+29
+rotating -93
+ok: 1
+36
+rotating 78
+ok: 1
+14
+rotating -25
+ok: 1
+89
+rotating 11
+ok: 1
+0
+rotating -44
+ok: 1
+56
+rotating -56
+ok: 0
+0
+rotating -75
+ok: 1
+25
+rotating -82
+ok: 1
+43
+rotating 15
+ok: 0
+58
+rotating 42
+ok: 1
+0
+rotating 26
+ok: 0
+26
+rotating -43
+ok: 1
+83
+rotating 18
+ok: 1
+1
+rotating 29
+ok: 0
+30
+rotating -30
+ok: 0
+0
+rotating 36
+ok: 0
+36
+rotating -6
+ok: 0
+30
+rotating 86
+ok: 1
+16
+rotating -16
+ok: 0
+0
+rotating -57
+ok: 1
+43
+rotating 57
+ok: 1
+0
+rotating -57
+ok: 1
+43
+rotating 57
+ok: 1
+0
+rotating 10
+ok: 0
+10
+rotating -19
+ok: 1
+91
+rotating 45
+ok: 1
+36
+rotating 33
+ok: 0
+69
+rotating -80
+ok: 1
+89
+rotating 11
+ok: 1
+0
+rotating 27
+ok: 0
+27
+rotating 73
+ok: 1
+0
+rotating 23
+ok: 0
+23
+rotating 43
+ok: 0
+66
+rotating 21
+ok: 0
+87
+rotating 48
+ok: 1
+35
+rotating 93
+ok: 1
+28
+rotating -30
+ok: 1
+98
+rotating 2
+ok: 1
+0
+rotating 37
+ok: 0
+37
+rotating -11
+ok: 0
+26
+rotating 74
+ok: 1
+0
+rotating 22
+ok: 0
+22
+rotating 478
+ok: 5
+0
+rotating -10
+ok: 1
+90
+rotating -42
+ok: 0
+48
+rotating 97
+ok: 1
+45
+rotating -45
+ok: 0
+0
+rotating -48
+ok: 1
+52
+rotating 6
+ok: 0
+58
+rotating 17
+ok: 0
+75
+rotating -75
+ok: 0
+0
+rotating -42
+ok: 1
+58
+rotating -55
+ok: 0
+3
+rotating 79
+ok: 0
+82
+rotating 27
+ok: 1
+9
+rotating -82
+ok: 1
+27
+rotating 88
+ok: 1
+15
+rotating -717
+ok: -6
+98
+rotating 760
+ok: 8
+58
+rotating -485
+ok: -3
+73
+rotating 53
+ok: 1
+26
+rotating -91
+ok: 1
+35
+rotating 114
+ok: 1
+49
+rotating 90
+ok: 1
+39
+rotating -20
+ok: 0
+19
+rotating -19
+ok: 0
+0
+rotating -22
+ok: 1
+78
+rotating -8
+ok: 0
+70
+rotating 30
+ok: 1
+0
+rotating 265
+ok: 2
+65
+rotating 45
+ok: 1
+10
+rotating -910
+ok: -9
+0
+rotating -71
+ok: 1
+29
+rotating -78
+ok: 1
+51
+rotating 81
+ok: 1
+32
+rotating 671
+ok: 7
+3
+rotating 97
+ok: 1
+0
+rotating -8
+ok: 1
+92
+rotating -197
+ok: 0
+95
+rotating 88
+ok: 1
+83
+rotating 17
+ok: 1
+0
+rotating -65
+ok: 1
+35
+rotating 126
+ok: 1
+61
+rotating 33
+ok: 0
+94
+rotating 58
+ok: 1
+52
+rotating 148
+ok: 2
+0
+rotating 39
+ok: 0
+39
+rotating 761
+ok: 8
+0
+rotating 59
+ok: 0
+59
+rotating -45
+ok: 0
+14
+rotating 86
+ok: 1
+0
+rotating 47
+ok: 0
+47
+rotating 98
+ok: 1
+45
+rotating 41
+ok: 0
+86
+rotating 86
+ok: 1
+72
+rotating 928
+ok: 10
+0
+rotating 66
+ok: 0
+66
+rotating -766
+ok: -7
+0
+rotating -81
+ok: 1
+19
+rotating -19
+ok: 0
+0
+rotating -30
+ok: 1
+70
+rotating 64
+ok: 1
+34
+rotating 833
+ok: 8
+67
+rotating -330
+ok: -1
+37
+rotating -10
+ok: 0
+27
+rotating -27
+ok: 0
+0
+rotating 57
+ok: 0
+57
+rotating -75
+ok: 1
+82
+rotating 18
+ok: 1
+0
+rotating 30
+ok: 0
+30
+rotating 70
+ok: 1
+0
+rotating -29
+ok: 1
+71
+rotating -58
+ok: 0
+13
+rotating -313
+ok: -3
+0
+rotating -8
+ok: 1
+92
+rotating -492
+ok: -4
+0
+rotating -77
+ok: 1
+23
+rotating -23
+ok: 0
+0
+rotating 90
+ok: 0
+90
+rotating -69
+ok: 0
+21
+rotating 79
+ok: 1
+0
+rotating 75
+ok: 0
+75
+rotating -63
+ok: 0
+12
+rotating 599
+ok: 6
+11
+rotating -76
+ok: 1
+35
+rotating 65
+ok: 1
+0
+rotating -38
+ok: 1
+62
+rotating -62
+ok: 0
+0
+rotating 92
+ok: 0
+92
+rotating 8
+ok: 1
+0
+rotating -49
+ok: 1
+51
+rotating -350
+ok: -1
+1
+rotating 99
+ok: 1
+0
+rotating -51
+ok: 1
+49
+rotating 677
+ok: 7
+26
+rotating -95
+ok: 1
+31
+rotating 69
+ok: 1
+0
+rotating -63
+ok: 1
+37
+rotating -28
+ok: 0
+9
+rotating -9
+ok: 0
+0
+rotating -72
+ok: 1
+28
+rotating 28
+ok: 0
+56
+rotating -94
+ok: 1
+62
+rotating 38
+ok: 1
+0
+rotating 6
+ok: 0
+6
+rotating 70
+ok: 0
+76
+rotating -15
+ok: 0
+61
+rotating -61
+ok: 0
+0
+rotating -90
+ok: 1
+10
+rotating 90
+ok: 1
+0
+rotating -745
+ok: -6
+55
+rotating 398
+ok: 4
+53
+rotating 10
+ok: 0
+63
+rotating 37
+ok: 1
+0
+rotating 21
+ok: 0
+21
+rotating 93
+ok: 1
+14
+rotating -14
+ok: 0
+0
+rotating -10
+ok: 1
+90
+rotating 10
+ok: 1
+0
+rotating 579
+ok: 5
+79
+rotating 21
+ok: 1
+0
+rotating -77
+ok: 1
+23
+rotating -83
+ok: 1
+40
+rotating 4
+ok: 0
+44
+rotating -244
+ok: -2
+0
+rotating 80
+ok: 0
+80
+rotating 93
+ok: 1
+73
+rotating -415
+ok: -2
+58
+rotating 953
+ok: 10
+11
+rotating -74
+ok: 1
+37
+rotating 10
+ok: 0
+47
+rotating -45
+ok: 0
+2
+rotating 4
+ok: 0
+6
+rotating -94
+ok: 1
+12
+rotating -93
+ok: 1
+19
+rotating -992
+ok: -8
+27
+rotating 46
+ok: 0
+73
+rotating 4
+ok: 0
+77
+rotating -77
+ok: 0
+0
+rotating -241
+ok: -1
+59
+rotating -206
+ok: 0
+53
+rotating -18
+ok: 0
+35
+rotating -25
+ok: 0
+10
+rotating 90
+ok: 1
+0
+rotating -458
+ok: -3
+42
+rotating 68
+ok: 1
+10
+rotating -28
+ok: 1
+82
+rotating -24
+ok: 0
+58
+rotating 24
+ok: 0
+82
+rotating -82
+ok: 0
+0
+rotating -35
+ok: 1
+65
+rotating -965
+ok: -9
+0
+rotating 44
+ok: 0
+44
+rotating -44
+ok: 0
+0
+rotating 76
+ok: 0
+76
+rotating 871
+ok: 9
+47
+rotating 553
+ok: 6
+0
+rotating 1
+ok: 0
+1
+rotating -82
+ok: 1
+19
+rotating 81
+ok: 1
+0
+rotating -46
+ok: 1
+54
+rotating -35
+ok: 0
+19
+rotating 85
+ok: 1
+4
+rotating -25
+ok: 1
+79
+rotating 21
+ok: 1
+0
+rotating -75
+ok: 1
+25
+rotating 55
+ok: 0
+80
+rotating 47
+ok: 1
+27
+rotating -922
+ok: -7
+5
+rotating -59
+ok: 1
+46
+rotating 254
+ok: 3
+0
+rotating -74
+ok: 1
+26
+rotating 27
+ok: 0
+53
+rotating -261
+ok: -1
+92
+rotating 8
+ok: 1
+0
+rotating -642
+ok: -5
+58
+rotating -73
+ok: 1
+85
+rotating 15
+ok: 1
+0
+rotating -66
+ok: 1
+34
+rotating -549
+ok: -4
+85
+rotating -92
+ok: 1
+93
+rotating -1
+ok: 0
+92
+rotating -967
+ok: -7
+25
+rotating -417
+ok: -2
+8
+rotating -921
+ok: -8
+87
+rotating 69
+ok: 1
+56
+rotating -54
+ok: 0
+2
+rotating -2
+ok: 0
+0
+rotating 73
+ok: 0
+73
+rotating -181
+ok: 0
+92
+rotating 88
+ok: 1
+80
+rotating -80
+ok: 0
+0
+rotating -2
+ok: 1
+98
+rotating -53
+ok: 0
+45
+rotating -3
+ok: 0
+42
+rotating -42
+ok: 0
+0
+rotating -22
+ok: 1
+78
+rotating -67
+ok: 0
+11
+rotating 728
+ok: 7
+39
+rotating 61
+ok: 1
+0
+rotating -84
+ok: 1
+16
+rotating 20
+ok: 0
+36
+rotating 5
+ok: 0
+41
+rotating -3
+ok: 0
+38
+rotating -838
+ok: -8
+0
+rotating 88
+ok: 0
+88
+rotating 278
+ok: 3
+66
+rotating 8
+ok: 0
+74
+rotating 26
+ok: 1
+0
+rotating -5
+ok: 1
+95
+rotating 5
+ok: 1
+0
+rotating 92
+ok: 0
+92
+rotating -65
+ok: 0
+27
+rotating 73
+ok: 1
+0
+rotating 58
+ok: 0
+58
+rotating -52
+ok: 0
+6
+rotating -19
+ok: 1
+87
+rotating -75
+ok: 0
+12
+rotating -12
+ok: 0
+0
+rotating -67
+ok: 1
+33
+rotating 51
+ok: 0
+84
+rotating -67
+ok: 0
+17
+rotating 43
+ok: 0
+60
+rotating 40
+ok: 1
+0
+rotating 86
+ok: 0
+86
+rotating -583
+ok: -3
+3
+rotating 597
+ok: 6
+0
+rotating -319
+ok: -2
+81
+rotating -57
+ok: 0
+24
+rotating 517
+ok: 5
+41
+rotating 567
+ok: 6
+8
+rotating -67
+ok: 1
+41
+rotating 59
+ok: 1
+0
+rotating 31
+ok: 0
+31
+rotating -35
+ok: 1
+96
+rotating 4
+ok: 1
+0
+rotating -302
+ok: -2
+98
+rotating 44
+ok: 1
+42
+rotating 58
+ok: 1
+0
+rotating -13
+ok: 1
+87
+rotating 737
+ok: 8
+24
+rotating 76
+ok: 1
+0
+rotating 320
+ok: 3
+20
+rotating 83
+ok: 1
+3
+rotating -46
+ok: 1
+57
+rotating 62
+ok: 1
+19
+rotating -89
+ok: 1
+30
+rotating 70
+ok: 1
+0
+rotating 2
+ok: 0
+2
+rotating -13
+ok: 1
+89
+rotating -28
+ok: 0
+61
+rotating 639
+ok: 7
+0
+rotating -86
+ok: 1
+14
+rotating 86
+ok: 1
+0
+rotating 14
+ok: 0
+14
+rotating 86
+ok: 1
+0
+rotating 29
+ok: 0
+29
+rotating -37
+ok: 1
+92
+rotating 89
+ok: 1
+81
+rotating -781
+ok: -7
+0
+rotating -76
+ok: 1
+24
+rotating 77
+ok: 1
+1
+rotating 10
+ok: 0
+11
+rotating 87
+ok: 0
+98
+rotating 2
+ok: 1
+0
+rotating -16
+ok: 1
+84
+rotating -18
+ok: 0
+66
+rotating 848
+ok: 9
+14
+rotating -314
+ok: -3
+0
+rotating 54
+ok: 0
+54
+rotating 91
+ok: 1
+45
+rotating -73
+ok: 1
+72
+rotating 28
+ok: 1
+0
+rotating 55
+ok: 0
+55
+rotating -55
+ok: 0
+0
+rotating 66
+ok: 0
+66
+rotating 97
+ok: 1
+63
+rotating 35
+ok: 0
+98
+rotating -2
+ok: 0
+96
+rotating 6
+ok: 1
+2
+rotating 10
+ok: 0
+12
+rotating 53
+ok: 0
+65
+rotating -23
+ok: 0
+42
+rotating 12
+ok: 0
+54
+rotating -64
+ok: 1
+90
+rotating -290
+ok: -2
+0
+rotating 85
+ok: 0
+85
+rotating 815
+ok: 9
+0
+rotating 401
+ok: 4
+1
+rotating 99
+ok: 1
+0
+rotating 70
+ok: 0
+70
+rotating 30
+ok: 1
+0
+rotating 3
+ok: 0
+3
+rotating 58
+ok: 0
+61
+rotating -50
+ok: 0
+11
+rotating -24
+ok: 1
+87
+rotating -87
+ok: 0
+0
+rotating -45
+ok: 1
+55
+rotating -97
+ok: 1
+58
+rotating -58
+ok: 0
+0
+rotating -158
+ok: 0
+42
+rotating 437
+ok: 4
+79
+rotating -31
+ok: 0
+48
+rotating -448
+ok: -4
+0
+rotating -42
+ok: 1
+58
+rotating -97
+ok: 1
+61
+rotating -61
+ok: 0
+0
+rotating 53
+ok: 0
+53
+rotating -36
+ok: 0
+17
+rotating 88
+ok: 1
+5
+rotating 50
+ok: 0
+55
+rotating 45
+ok: 1
+0
+rotating 77
+ok: 0
+77
+rotating -77
+ok: 0
+0
+rotating -96
+ok: 1
+4
+rotating -43
+ok: 1
+61
+rotating 916
+ok: 9
+77
+rotating -83
+ok: 1
+94
+rotating -33
+ok: 0
+61
+rotating -87
+ok: 1
+74
+rotating 26
+ok: 1
+0
+rotating -14
+ok: 1
+86
+rotating -18
+ok: 0
+68
+rotating 15
+ok: 0
+83
+rotating -83
+ok: 0
+0
+rotating 44
+ok: 0
+44
+rotating 17
+ok: 0
+61
+rotating -11
+ok: 0
+50
+rotating -43
+ok: 0
+7
+rotating -63
+ok: 1
+44
+rotating 775
+ok: 8
+19
+rotating -19
+ok: 0
+0
+rotating 49
+ok: 0
+49
+rotating -62
+ok: 1
+87
+rotating -87
+ok: 0
+0
+rotating -798
+ok: -6
+2
+rotating 498
+ok: 5
+0
+rotating 93
+ok: 0
+93
+rotating -27
+ok: 0
+66
+rotating -87
+ok: 1
+79
+rotating 78
+ok: 1
+57
+rotating 893
+ok: 9
+50
+rotating -65
+ok: 1
+85
+rotating -74
+ok: 0
+11
+rotating 6
+ok: 0
+17
+rotating -45
+ok: 1
+72
+rotating 124
+ok: 1
+96
+rotating 4
+ok: 1
+0
+rotating 82
+ok: 0
+82
+rotating -25
+ok: 0
+57
+rotating -909
+ok: -7
+48
+rotating -10
+ok: 0
+38
+rotating 96
+ok: 1
+34
+rotating -948
+ok: -8
+86
+rotating -44
+ok: 0
+42
+rotating 228
+ok: 2
+70
+rotating -78
+ok: 1
+92
+rotating 8
+ok: 1
+0
+rotating -63
+ok: 1
+37
+rotating 684
+ok: 7
+21
+rotating 4
+ok: 0
+25
+rotating -376
+ok: -2
+49
+rotating -44
+ok: 0
+5
+rotating 495
+ok: 5
+0
+rotating -27
+ok: 1
+73
+rotating 58
+ok: 1
+31
+rotating 78
+ok: 1
+9
+rotating -94
+ok: 1
+15
+rotating 60
+ok: 0
+75
+rotating 44
+ok: 1
+19
+rotating 81
+ok: 1
+0
+rotating 813
+ok: 8
+13
+rotating 553
+ok: 5
+66
+rotating -94
+ok: 1
+72
+rotating -2
+ok: 0
+70
+rotating -22
+ok: 0
+48
+rotating 529
+ok: 5
+77
+rotating 96
+ok: 1
+73
+rotating -98
+ok: 1
+75
+rotating -75
+ok: 0
+0
+rotating 71
+ok: 0
+71
+rotating 38
+ok: 1
+9
+rotating 99
+ok: 1
+8
+rotating 91
+ok: 0
+99
+rotating 65
+ok: 1
+64
+rotating -64
+ok: 0
+0
+rotating -3
+ok: 1
+97
+rotating -7
+ok: 0
+90
+rotating -490
+ok: -4
+0
+rotating -67
+ok: 1
+33
+rotating -854
+ok: -7
+79
+rotating -184
+ok: 0
+95
+rotating 86
+ok: 1
+81
+rotating 419
+ok: 5
+0
+rotating -73
+ok: 1
+27
+rotating -27
+ok: 0
+0
+rotating 14
+ok: 0
+14
+rotating -33
+ok: 1
+81
+rotating 74
+ok: 1
+55
+rotating 52
+ok: 1
+7
+rotating 81
+ok: 0
+88
+rotating -38
+ok: 0
+50
+rotating 50
+ok: 1
+0
+rotating 96
+ok: 0
+96
+rotating 44
+ok: 1
+40
+rotating -62
+ok: 1
+78
+rotating 222
+ok: 3
+0
+rotating 39
+ok: 0
+39
+rotating -31
+ok: 0
+8
+rotating -908
+ok: -9
+0
+rotating 15
+ok: 0
+15
+rotating 85
+ok: 1
+0
+rotating -99
+ok: 1
+1
+rotating 94
+ok: 0
+95
+rotating -95
+ok: 0
+0
+rotating 84
+ok: 0
+84
+rotating 16
+ok: 1
+0
+rotating 13
+ok: 0
+13
+rotating 527
+ok: 5
+40
+rotating -268
+ok: -1
+72
+rotating -921
+ok: -7
+51
+rotating -51
+ok: 0
+0
+rotating -97
+ok: 1
+3
+rotating 640
+ok: 6
+43
+rotating 52
+ok: 0
+95
+rotating 47
+ok: 1
+42
+rotating -57
+ok: 1
+85
+rotating -85
+ok: 0
+0
+rotating -737
+ok: -6
+63
+rotating -74
+ok: 1
+89
+rotating -89
+ok: 0
+0
+rotating 396
+ok: 3
+96
+rotating -96
+ok: 0
+0
+rotating 75
+ok: 0
+75
+rotating -24
+ok: 0
+51
+rotating 670
+ok: 7
+21
+rotating 79
+ok: 1
+0
+rotating 30
+ok: 0
+30
+rotating -66
+ok: 1
+64
+rotating -21
+ok: 0
+43
+rotating -480
+ok: -3
+63
+rotating 96
+ok: 1
+59
+rotating -665
+ok: -5
+94
+rotating -94
+ok: 0
+0
+rotating 39
+ok: 0
+39
+rotating -39
+ok: 0
+0
+rotating 33
+ok: 0
+33
+rotating 20
+ok: 0
+53
+rotating -53
+ok: 0
+0
+rotating -53
+ok: 1
+47
+rotating 97
+ok: 1
+44
+rotating -8
+ok: 0
+36
+rotating 64
+ok: 1
+0
+rotating 126
+ok: 1
+26
+rotating 74
+ok: 1
+0
+rotating -393
+ok: -2
+7
+rotating -707
+ok: -7
+0
+rotating 13
+ok: 0
+13
+rotating 977
+ok: 9
+90
+rotating 13
+ok: 1
+3
+rotating 90
+ok: 0
+93
+rotating -20
+ok: 0
+73
+rotating -85
+ok: 1
+88
+rotating 12
+ok: 1
+0
+rotating 31
+ok: 0
+31
+rotating -66
+ok: 1
+65
+rotating 26
+ok: 0
+91
+rotating -98
+ok: 1
+93
+rotating 307
+ok: 4
+0
+rotating -92
+ok: 1
+8
+rotating 92
+ok: 1
+0
+rotating 56
+ok: 0
+56
+rotating -360
+ok: -2
+96
+rotating 50
+ok: 1
+46
+rotating 56
+ok: 1
+2
+rotating 4
+ok: 0
+6
+rotating 43
+ok: 0
+49
+rotating -3
+ok: 0
+46
+rotating -86
+ok: 1
+60
+rotating 140
+ok: 2
+0
+rotating -90
+ok: 1
+10
+rotating -10
+ok: 0
+0
+rotating -71
+ok: 1
+29
+rotating -29
+ok: 0
+0
+rotating 517
+ok: 5
+17
+rotating 86
+ok: 1
+3
+rotating 397
+ok: 4
+0
+rotating 87
+ok: 0
+87
+rotating -37
+ok: 0
+50
+rotating -43
+ok: 0
+7
+rotating -35
+ok: 1
+72
+rotating 28
+ok: 1
+0
+rotating 36
+ok: 0
+36
+rotating -60
+ok: 1
+76
+rotating -95
+ok: 1
+81
+rotating -69
+ok: 0
+12
+rotating 44
+ok: 0
+56
+rotating 35
+ok: 0
+91
+rotating 68
+ok: 1
+59
+rotating -63
+ok: 1
+96
+rotating 99
+ok: 1
+95
+rotating -95
+ok: 0
+0
+rotating -260
+ok: -1
+40
+rotating -40
+ok: 0
+0
+rotating -91
+ok: 1
+9
+rotating 54
+ok: 0
+63
+rotating -63
+ok: 0
+0
+rotating 34
+ok: 0
+34
+rotating -34
+ok: 0
+0
+rotating 51
+ok: 0
+51
+rotating -43
+ok: 0
+8
+rotating 208
+ok: 2
+16
+rotating -16
+ok: 0
+0
+rotating -141
+ok: 0
+59
+rotating -59
+ok: 0
+0
+rotating 71
+ok: 0
+71
+rotating -71
+ok: 0
+0
+rotating -73
+ok: 1
+27
+rotating -74
+ok: 1
+53
+rotating -13
+ok: 0
+40
+rotating -29
+ok: 0
+11
+rotating -49
+ok: 1
+62
+rotating 45
+ok: 1
+7
+rotating -10
+ok: 1
+97
+rotating -39
+ok: 0
+58
+rotating -63
+ok: 1
+95
+rotating 71
+ok: 1
+66
+rotating 34
+ok: 1
+0
+rotating -44
+ok: 1
+56
+rotating -856
+ok: -8
+0
+rotating -49
+ok: 1
+51
+rotating -438
+ok: -2
+13
+rotating 866
+ok: 8
+79
+rotating -86
+ok: 1
+93
+rotating -7
+ok: 0
+86
+rotating -86
+ok: 0
+0
+rotating -18
+ok: 1
+82
+rotating 51
+ok: 1
+33
+rotating 541
+ok: 5
+74
+rotating -74
+ok: 0
+0
+rotating -84
+ok: 1
+16
+rotating 84
+ok: 1
+0
+rotating -39
+ok: 1
+61
+rotating -61
+ok: 0
+0
+rotating 15
+ok: 0
+15
+rotating -15
+ok: 0
+0
+rotating -553
+ok: -4
+47
+rotating -978
+ok: -8
+69
+rotating 1
+ok: 0
+70
+rotating -21
+ok: 0
+49
+rotating 6
+ok: 0
+55
+rotating 20
+ok: 0
+75
+rotating 25
+ok: 1
+0
+rotating -21
+ok: 1
+79
+rotating 721
+ok: 8
+0
+rotating 207
+ok: 2
+7
+rotating 47
+ok: 0
+54
+rotating -54
+ok: 0
+0
+rotating 16
+ok: 0
+16
+rotating -16
+ok: 0
+0
+rotating 38
+ok: 0
+38
+rotating -251
+ok: -1
+87
+rotating -288
+ok: -1
+99
+rotating 31
+ok: 1
+30
+rotating 70
+ok: 1
+0
+rotating 26
+ok: 0
+26
+rotating 44
+ok: 0
+70
+rotating 30
+ok: 1
+0
+rotating 67
+ok: 0
+67
+rotating 46
+ok: 1
+13
+rotating -86
+ok: 1
+27
+rotating 10
+ok: 0
+37
+rotating 591
+ok: 6
+28
+rotating 55
+ok: 0
+83
+rotating -34
+ok: 0
+49
+rotating 51
+ok: 1
+0
+rotating -88
+ok: 1
+12
+rotating 88
+ok: 1
+0
+rotating 81
+ok: 0
+81
+rotating 19
+ok: 1
+0
+rotating -97
+ok: 1
+3
+rotating 86
+ok: 0
+89
+rotating 76
+ok: 1
+65
+rotating -58
+ok: 0
+7
+rotating -7
+ok: 0
+0
+rotating 51
+ok: 0
+51
+rotating -77
+ok: 1
+74
+rotating 230
+ok: 3
+4
+rotating 25
+ok: 0
+29
+rotating -29
+ok: 0
+0
+rotating -6
+ok: 1
+94
+rotating 6
+ok: 1
+0
+rotating 40
+ok: 0
+40
+rotating -188
+ok: 0
+52
+rotating 62
+ok: 1
+14
+rotating 854
+ok: 8
+68
+rotating 57
+ok: 1
+25
+rotating 75
+ok: 1
+0
+rotating 6
+ok: 0
+6
+rotating -76
+ok: 1
+30
+rotating -7
+ok: 0
+23
+rotating -23
+ok: 0
+0
+rotating 843
+ok: 8
+43
+rotating -34
+ok: 0
+9
+rotating -709
+ok: -7
+0
+rotating 46
+ok: 0
+46
+rotating 88
+ok: 1
+34
+rotating 66
+ok: 1
+0
+rotating 633
+ok: 6
+33
+rotating -87
+ok: 1
+46
+rotating 54
+ok: 1
+0
+rotating 29
+ok: 0
+29
+rotating -33
+ok: 1
+96
+rotating -66
+ok: 0
+30
+rotating 92
+ok: 1
+22
+rotating 3
+ok: 0
+25
+rotating -9
+ok: 0
+16
+rotating 34
+ok: 0
+50
+rotating -38
+ok: 0
+12
+rotating 88
+ok: 1
+0
+rotating 14
+ok: 0
+14
+rotating 930
+ok: 9
+44
+rotating -26
+ok: 0
+18
+rotating 29
+ok: 0
+47
+rotating 66
+ok: 1
+13
+rotating 87
+ok: 1
+0
+rotating 83
+ok: 0
+83
+rotating 20
+ok: 1
+3
+rotating 67
+ok: 0
+70
+rotating -872
+ok: -7
+98
+rotating 26
+ok: 1
+24
+rotating -790
+ok: -6
+34
+rotating -81
+ok: 1
+53
+rotating 47
+ok: 1
+0
+rotating 56
+ok: 0
+56
+rotating 13
+ok: 0
+69
+rotating 694
+ok: 7
+63
+rotating 99
+ok: 1
+62
+rotating -62
+ok: 0
+0
+rotating 58
+ok: 0
+58
+rotating -89
+ok: 1
+69
+rotating 731
+ok: 8
+0
+rotating 31
+ok: 0
+31
+rotating -41
+ok: 1
+90
+rotating -90
+ok: 0
+0
+rotating 92
+ok: 0
+92
+rotating -57
+ok: 0
+35
+rotating 12
+ok: 0
+47
+rotating 65
+ok: 1
+12
+rotating 88
+ok: 1
+0
+rotating -60
+ok: 1
+40
+rotating -40
+ok: 0
+0
+rotating 212
+ok: 2
+12
+rotating 20
+ok: 0
+32
+rotating -23
+ok: 0
+9
+rotating -80
+ok: 1
+29
+rotating -29
+ok: 0
+0
+rotating -423
+ok: -3
+77
+rotating -77
+ok: 0
+0
+rotating 73
+ok: 0
+73
+rotating 643
+ok: 7
+16
+rotating 84
+ok: 1
+0
+rotating 1
+ok: 0
+1
+rotating 30
+ok: 0
+31
+rotating -31
+ok: 0
+0
+rotating -67
+ok: 1
+33
+rotating 49
+ok: 0
+82
+rotating 38
+ok: 1
+20
+rotating -24
+ok: 1
+96
+rotating 83
+ok: 1
+79
+rotating -84
+ok: 1
+95
+rotating 66
+ok: 1
+61
+rotating 39
+ok: 1
+0
+rotating -660
+ok: -5
+40
+rotating -594
+ok: -4
+46
+rotating 66
+ok: 1
+12
+rotating 18
+ok: 0
+30
+rotating -56
+ok: 1
+74
+rotating -74
+ok: 0
+0
+rotating -2
+ok: 1
+98
+rotating 2
+ok: 1
+0
+rotating -19
+ok: 1
+81
+rotating -81
+ok: 0
+0
+rotating -52
+ok: 1
+48
+rotating -89
+ok: 1
+59
+rotating -750
+ok: -5
+9
+rotating 3
+ok: 0
+12
+rotating 8
+ok: 0
+20
+rotating -48
+ok: 1
+72
+rotating -74
+ok: 1
+98
+rotating -932
+ok: -7
+66
+rotating 54
+ok: 1
+20
+rotating 47
+ok: 0
+67
+rotating -99
+ok: 1
+68
+rotating -268
+ok: -2
+0
+rotating 39
+ok: 0
+39
+rotating -939
+ok: -9
+0
+rotating -352
+ok: -2
+48
+rotating 31
+ok: 0
+79
+rotating -79
+ok: 0
+0
+rotating 33
+ok: 0
+33
+rotating 69
+ok: 1
+2
+rotating 517
+ok: 5
+19
+rotating 17
+ok: 0
+36
+rotating 68
+ok: 1
+4
+rotating -73
+ok: 1
+31
+rotating 25
+ok: 0
+56
+rotating -40
+ok: 0
+16
+rotating -16
+ok: 0
+0
+rotating -2
+ok: 1
+98
+rotating -62
+ok: 0
+36
+rotating 633
+ok: 6
+69
+rotating -169
+ok: -1
+0
+rotating 50
+ok: 0
+50
+rotating -550
+ok: -5
+0
+rotating -30
+ok: 1
+70
+rotating -94
+ok: 1
+76
+rotating -576
+ok: -5
+0
+rotating 15
+ok: 0
+15
+rotating 8
+ok: 0
+23
+rotating -23
+ok: 0
+0
+rotating 16
+ok: 0
+16
+rotating 91
+ok: 1
+7
+rotating -44
+ok: 1
+63
+rotating 137
+ok: 2
+0
+rotating 896
+ok: 8
+96
+rotating -65
+ok: 0
+31
+rotating -65
+ok: 1
+66
+rotating 34
+ok: 1
+0
+rotating -68
+ok: 1
+32
+rotating 68
+ok: 1
+0
+rotating -91
+ok: 1
+9
+rotating -409
+ok: -4
+0
+rotating 2
+ok: 0
+2
+rotating 59
+ok: 0
+61
+rotating -61
+ok: 0
+0
+rotating -919
+ok: -8
+81
+rotating -98
+ok: 1
+83
+rotating 93
+ok: 1
+76
+rotating 24
+ok: 1
+0
+rotating 51
+ok: 0
+51
+rotating 6
+ok: 0
+57
+rotating -457
+ok: -4
+0
+rotating -94
+ok: 1
+6
+rotating -34
+ok: 1
+72
+rotating -72
+ok: 0
+0
+rotating 3
+ok: 0
+3
+rotating 19
+ok: 0
+22
+rotating 15
+ok: 0
+37
+rotating 933
+ok: 9
+70
+rotating 97
+ok: 1
+67
+rotating -67
+ok: 0
+0
+rotating 29
+ok: 0
+29
+rotating -92
+ok: 1
+37
+rotating -90
+ok: 1
+47
+rotating -47
+ok: 0
+0
+rotating 6
+ok: 0
+6
+rotating -86
+ok: 1
+20
+rotating 680
+ok: 7
+0
+rotating 77
+ok: 0
+77
+rotating -77
+ok: 0
+0
+rotating -72
+ok: 1
+28
+rotating -29
+ok: 1
+99
+rotating -95
+ok: 0
+4
+rotating -30
+ok: 1
+74
+rotating -754
+ok: -5
+20
+rotating -140
+ok: 0
+80
+rotating 69
+ok: 1
+49
+rotating -49
+ok: 0
+0
+rotating 84
+ok: 0
+84
+rotating -326
+ok: -1
+58
+rotating -58
+ok: 0
+0
+rotating -38
+ok: 1
+62
+rotating 81
+ok: 1
+43
+rotating 57
+ok: 1
+0
+rotating -91
+ok: 1
+9
+rotating 91
+ok: 1
+0
+rotating 171
+ok: 1
+71
+rotating -93
+ok: 1
+78
+rotating 87
+ok: 1
+65
+rotating 95
+ok: 1
+60
+rotating -94
+ok: 1
+66
+rotating -66
+ok: 0
+0
+rotating 69
+ok: 0
+69
+rotating -69
+ok: 0
+0
+rotating -29
+ok: 1
+71
+rotating -47
+ok: 0
+24
+rotating 815
+ok: 8
+39
+rotating 16
+ok: 0
+55
+rotating -138
+ok: 1
+17
+rotating 83
+ok: 1
+0
+rotating -92
+ok: 1
+8
+rotating -63
+ok: 1
+45
+rotating -6
+ok: 0
+39
+rotating 61
+ok: 1
+0
+rotating 20
+ok: 0
+20
+rotating 261
+ok: 2
+81
+rotating 809
+ok: 8
+90
+rotating -54
+ok: 0
+36
+rotating 92
+ok: 1
+28
+rotating -28
+ok: 0
+0
+rotating -44
+ok: 1
+56
+rotating 61
+ok: 1
+17
+rotating -65
+ok: 1
+52
+rotating 48
+ok: 1
+0
+rotating 84
+ok: 0
+84
+rotating -526
+ok: -3
+58
+rotating -558
+ok: -5
+0
+rotating -84
+ok: 1
+16
+rotating 84
+ok: 1
+0
+rotating -36
+ok: 1
+64
+rotating -725
+ok: -5
+39
+rotating -633
+ok: -4
+6
+rotating 94
+ok: 1
+0
+rotating -56
+ok: 1
+44
+rotating -44
+ok: 0
+0
+rotating 78
+ok: 0
+78
+rotating -9
+ok: 0
+69
+rotating 9
+ok: 0
+78
+rotating -678
+ok: -6
+0
+rotating 50
+ok: 0
+50
+rotating -50
+ok: 0
+0
+rotating 11
+ok: 0
+11
+rotating 8
+ok: 0
+19
+rotating -68
+ok: 1
+51
+rotating -161
+ok: 0
+90
+rotating 10
+ok: 1
+0
+rotating 35
+ok: 0
+35
+rotating 65
+ok: 1
+0
+rotating -48
+ok: 1
+52
+rotating 16
+ok: 0
+68
+rotating 13
+ok: 0
+81
+rotating 38
+ok: 1
+19
+rotating -41
+ok: 1
+78
+rotating -78
+ok: 0
+0
+rotating 125
+ok: 1
+25
+rotating 748
+ok: 7
+73
+rotating 14
+ok: 0
+87
+rotating -98
+ok: 1
+89
+rotating -789
+ok: -7
+0
+rotating -39
+ok: 1
+61
+rotating 39
+ok: 1
+0
+rotating 292
+ok: 2
+92
+rotating 308
+ok: 4
+0
+rotating 14
+ok: 0
+14
+rotating -199
+ok: 0
+15
+rotating 80
+ok: 0
+95
+rotating -95
+ok: 0
+0
+rotating -44
+ok: 1
+56
+rotating 37
+ok: 0
+93
+rotating 7
+ok: 1
+0
+rotating 98
+ok: 0
+98
+rotating 27
+ok: 1
+25
+rotating 274
+ok: 2
+99
+rotating -81
+ok: 0
+18
+rotating -18
+ok: 0
+0
+rotating 97
+ok: 0
+97
+rotating 4
+ok: 1
+1
+rotating 499
+ok: 5
+0
+rotating -61
+ok: 1
+39
+rotating 80
+ok: 1
+19
+rotating -95
+ok: 1
+24
+rotating -75
+ok: 1
+49
+rotating 47
+ok: 0
+96
+rotating 17
+ok: 1
+13
+rotating -58
+ok: 1
+55
+rotating 15
+ok: 0
+70
+rotating -72
+ok: 1
+98
+rotating 21
+ok: 1
+19
+rotating -68
+ok: 1
+51
+rotating -351
+ok: -3
+0
+rotating 52
+ok: 0
+52
+rotating -52
+ok: 0
+0
+rotating -27
+ok: 1
+73
+rotating -41
+ok: 0
+32
+rotating 9
+ok: 0
+41
+rotating 59
+ok: 1
+0
+rotating 61
+ok: 0
+61
+rotating -7
+ok: 0
+54
+rotating -54
+ok: 0
+0
+rotating 680
+ok: 6
+80
+rotating 20
+ok: 1
+0
+rotating -34
+ok: 1
+66
+rotating 34
+ok: 1
+0
+rotating -62
+ok: 1
+38
+rotating 90
+ok: 1
+28
+rotating 72
+ok: 1
+0
+rotating 1
+ok: 0
+1
+rotating 127
+ok: 1
+28
+rotating -28
+ok: 0
+0
+rotating -532
+ok: -4
+68
+rotating -68
+ok: 0
+0
+rotating 81
+ok: 0
+81
+rotating 510
+ok: 5
+91
+rotating 9
+ok: 1
+0
+rotating -88
+ok: 1
+12
+rotating 87
+ok: 0
+99
+rotating -62
+ok: 0
+37
+rotating -84
+ok: 1
+53
+rotating -5
+ok: 0
+48
+rotating -11
+ok: 0
+37
+rotating -637
+ok: -6
+0
+rotating 44
+ok: 0
+44
+rotating -315
+ok: -1
+29
+rotating 8
+ok: 0
+37
+rotating 63
+ok: 1
+0
+rotating -42
+ok: 1
+58
+rotating -58
+ok: 0
+0
+rotating -70
+ok: 1
+30
+rotating -30
+ok: 0
+0
+rotating 70
+ok: 0
+70
+rotating -91
+ok: 1
+79
+rotating 837
+ok: 9
+16
+rotating -45
+ok: 1
+71
+rotating -50
+ok: 0
+21
+rotating 79
+ok: 1
+0
+rotating 86
+ok: 0
+86
+rotating -5
+ok: 0
+81
+rotating 63
+ok: 1
+44
+rotating -66
+ok: 1
+78
+rotating 923
+ok: 10
+1
+rotating -88
+ok: 1
+13
+rotating 32
+ok: 0
+45
+rotating -45
+ok: 0
+0
+rotating 1
+ok: 0
+1
+rotating 32
+ok: 0
+33
+rotating -27
+ok: 0
+6
+rotating -6
+ok: 0
+0
+rotating 86
+ok: 0
+86
+rotating 647
+ok: 7
+33
+rotating 94
+ok: 1
+27
+rotating 51
+ok: 0
+78
+rotating -9
+ok: 0
+69
+rotating -2
+ok: 0
+67
+rotating 25
+ok: 0
+92
+rotating -92
+ok: 0
+0
+rotating 76
+ok: 0
+76
+rotating -559
+ok: -3
+17
+rotating 83
+ok: 1
+0
+rotating 47
+ok: 0
+47
+rotating 53
+ok: 1
+0
+rotating 23
+ok: 0
+23
+rotating -87
+ok: 1
+36
+rotating -62
+ok: 1
+74
+rotating -77
+ok: 1
+97
+rotating 41
+ok: 1
+38
+rotating -54
+ok: 1
+84
+rotating 76
+ok: 1
+60
+rotating 65
+ok: 1
+25
+rotating -10
+ok: 0
+15
+rotating 38
+ok: 0
+53
+rotating 9
+ok: 0
+62
+rotating 438
+ok: 5
+0
+rotating -93
+ok: 1
+7
+rotating 44
+ok: 0
+51
+rotating -306
+ok: -1
+45
+rotating -53
+ok: 1
+92
+rotating 19
+ok: 1
+11
+rotating 89
+ok: 1
+0
+rotating 38
+ok: 0
+38
+rotating 15
+ok: 0
+53
+rotating -953
+ok: -9
+0
+rotating 74
+ok: 0
+74
+rotating -13
+ok: 0
+61
+rotating -6
+ok: 0
+55
+rotating 760
+ok: 8
+15
+rotating -15
+ok: 0
+0
+rotating -67
+ok: 1
+33
+rotating -33
+ok: 0
+0
+rotating 94
+ok: 0
+94
+rotating 23
+ok: 1
+17
+rotating -30
+ok: 1
+87
+rotating 13
+ok: 1
+0
+rotating 80
+ok: 0
+80
+rotating 27
+ok: 1
+7
+rotating 98
+ok: 1
+5
+rotating 99
+ok: 1
+4
+rotating 96
+ok: 1
+0
+rotating -33
+ok: 1
+67
+rotating 33
+ok: 1
+0
+rotating -95
+ok: 1
+5
+rotating 32
+ok: 0
+37
+rotating -310
+ok: -1
+27
+rotating -22
+ok: 0
+5
+rotating -5
+ok: 0
+0
+rotating -87
+ok: 1
+13
+rotating -80
+ok: 1
+33
+rotating -33
+ok: 0
+0
+rotating -444
+ok: -3
+56
+rotating -88
+ok: 1
+68
+rotating -798
+ok: -6
+70
+rotating -70
+ok: 0
+0
+rotating -79
+ok: 1
+21
+rotating 264
+ok: 2
+85
+rotating -85
+ok: 0
+0
+rotating 12
+ok: 0
+12
+rotating 705
+ok: 7
+17
+rotating 283
+ok: 3
+0
+rotating -43
+ok: 1
+57
+rotating 43
+ok: 1
+0
+rotating -71
+ok: 1
+29
+rotating 56
+ok: 0
+85
+rotating -85
+ok: 0
+0
+rotating -953
+ok: -8
+47
+rotating 80
+ok: 1
+27
+rotating 80
+ok: 1
+7
+rotating -57
+ok: 1
+50
+rotating -91
+ok: 1
+59
+rotating -98
+ok: 1
+61
+rotating 39
+ok: 1
+0
+rotating -15
+ok: 1
+85
+rotating -85
+ok: 0
+0
+rotating 87
+ok: 0
+87
+rotating 77
+ok: 1
+64
+rotating -87
+ok: 1
+77
+rotating 17
+ok: 0
+94
+rotating 6
+ok: 1
+0
+rotating -844
+ok: -7
+56
+rotating -56
+ok: 0
+0
+rotating 64
+ok: 0
+64
+rotating -90
+ok: 1
+74
+rotating 236
+ok: 3
+10
+rotating 30
+ok: 0
+40
+rotating -4
+ok: 0
+36
+rotating -48
+ok: 1
+88
+rotating 21
+ok: 1
+9
+rotating 79
+ok: 0
+88
+rotating 6
+ok: 0
+94
+rotating -37
+ok: 0
+57
+rotating -41
+ok: 0
+16
+rotating -27
+ok: 1
+89
+rotating 28
+ok: 1
+17
+rotating -64
+ok: 1
+53
+rotating -68
+ok: 1
+85
+rotating 15
+ok: 1
+0
+rotating -6
+ok: 1
+94
+rotating -94
+ok: 0
+0
+rotating 42
+ok: 0
+42
+rotating -89
+ok: 1
+53
+rotating -83
+ok: 1
+70
+rotating -34
+ok: 0
+36
+rotating -536
+ok: -5
+0
+rotating 773
+ok: 7
+73
+rotating 27
+ok: 1
+0
+rotating 31
+ok: 0
+31
+rotating -45
+ok: 1
+86
+rotating 14
+ok: 1
+0
+rotating -876
+ok: -7
+24
+rotating 90
+ok: 1
+14
+rotating -92
+ok: 1
+22
+rotating 778
+ok: 8
+0
+rotating -74
+ok: 1
+26
+rotating 80
+ok: 1
+6
+rotating -688
+ok: -5
+18
+rotating -1
+ok: 0
+17
+rotating 593
+ok: 6
+10
+rotating 999
+ok: 10
+9
+rotating 73
+ok: 0
+82
+rotating -882
+ok: -8
+0
+rotating -48
+ok: 1
+52
+rotating 23
+ok: 0
+75
+rotating -55
+ok: 0
+20
+rotating -50
+ok: 1
+70
+rotating -683
+ok: -5
+87
+rotating 89
+ok: 1
+76
+rotating -47
+ok: 0
+29
+rotating 4
+ok: 0
+33
+rotating 81
+ok: 1
+14
+rotating -614
+ok: -6
+0
+rotating -24
+ok: 1
+76
+rotating -43
+ok: 0
+33
+rotating 45
+ok: 0
+78
+rotating 74
+ok: 1
+52
+rotating -452
+ok: -4
+0
+rotating 93
+ok: 0
+93
+rotating -59
+ok: 0
+34
+rotating -16
+ok: 0
+18
+rotating 82
+ok: 1
+0
+rotating 91
+ok: 0
+91
+rotating 18
+ok: 1
+9
+rotating -22
+ok: 1
+87
+rotating -854
+ok: -6
+33
+rotating 50
+ok: 0
+83
+rotating 17
+ok: 1
+0
+rotating 7
+ok: 0
+7
+rotating -38
+ok: 1
+69
+rotating -876
+ok: -7
+93
+rotating -65
+ok: 0
+28
+rotating 872
+ok: 9
+0
+rotating 78
+ok: 0
+78
+rotating -15
+ok: 0
+63
+rotating 22
+ok: 0
+85
+rotating 51
+ok: 1
+36
+rotating 64
+ok: 1
+0
+rotating 69
+ok: 0
+69
+rotating 83
+ok: 1
+52
+rotating -136
+ok: 1
+16
+rotating 584
+ok: 6
+0
+rotating -10
+ok: 1
+90
+rotating 10
+ok: 1
+0
+rotating -29
+ok: 1
+71
+rotating -71
+ok: 0
+0
+rotating -306
+ok: -2
+94
+rotating -98
+ok: 1
+96
+rotating 4
+ok: 1
+0
+rotating -75
+ok: 1
+25
+rotating 75
+ok: 1
+0
+rotating 16
+ok: 0
+16
+rotating 66
+ok: 0
+82
+rotating -97
+ok: 1
+85
+rotating -485
+ok: -4
+0
+rotating -90
+ok: 1
+10
+rotating 17
+ok: 0
+27
+rotating -727
+ok: -7
+0
+rotating -54
+ok: 1
+46
+rotating -72
+ok: 1
+74
+rotating -74
+ok: 0
+0
+rotating -56
+ok: 1
+44
+rotating -44
+ok: 0
+0
+rotating 8
+ok: 0
+8
+rotating 92
+ok: 1
+0
+rotating 83
+ok: 0
+83
+rotating 47
+ok: 1
+30
+rotating -30
+ok: 0
+0
+rotating -30
+ok: 1
+70
+rotating 59
+ok: 1
+29
+rotating -241
+ok: -1
+88
+rotating -823
+ok: -6
+65
+rotating 384
+ok: 4
+49
+rotating 2
+ok: 0
+51
+rotating -594
+ok: -4
+57
+rotating 69
+ok: 1
+26
+rotating 74
+ok: 1
+0
+rotating -4
+ok: 1
+96
+rotating -57
+ok: 0
+39
+rotating 61
+ok: 1
+0
+rotating -51
+ok: 1
+49
+rotating -490
+ok: -3
+59
+rotating -18
+ok: 0
+41
+rotating 882
+ok: 9
+23
+rotating -38
+ok: 1
+85
+rotating -1
+ok: 0
+84
+rotating 36
+ok: 1
+20
+rotating 53
+ok: 0
+73
+rotating 327
+ok: 4
+0
+rotating -18
+ok: 1
+82
+rotating 18
+ok: 1
+0
+rotating 65
+ok: 0
+65
+rotating 33
+ok: 0
+98
+rotating -19
+ok: 0
+79
+rotating 395
+ok: 4
+74
+rotating -79
+ok: 1
+95
+rotating 5
+ok: 1
+0
+rotating -9
+ok: 1
+91
+rotating 9
+ok: 1
+0
+rotating -6
+ok: 1
+94
+rotating -495
+ok: -3
+99
+rotating -99
+ok: 0
+0
+rotating -57
+ok: 1
+43
+rotating 2
+ok: 0
+45
+rotating -45
+ok: 0
+0
+rotating -404
+ok: -3
+96
+rotating 93
+ok: 1
+89
+rotating -4
+ok: 0
+85
+rotating -76
+ok: 0
+9
+rotating 191
+ok: 2
+0
+rotating 8
+ok: 0
+8
+rotating -6
+ok: 0
+2
+rotating -402
+ok: -4
+0
+rotating -59
+ok: 1
+41
+rotating 51
+ok: 0
+92
+rotating -2
+ok: 0
+90
+rotating 10
+ok: 1
+0
+rotating 313
+ok: 3
+13
+rotating -313
+ok: -3
+0
+rotating -94
+ok: 1
+6
+rotating 94
+ok: 1
+0
+rotating -32
+ok: 1
+68
+rotating 32
+ok: 1
+0
+rotating -27
+ok: 1
+73
+rotating 12
+ok: 0
+85
+rotating -85
+ok: 0
+0
+rotating -60
+ok: 1
+40
+rotating 2
+ok: 0
+42
+rotating -74
+ok: 1
+68
+rotating -62
+ok: 0
+6
+rotating -45
+ok: 1
+61
+rotating 72
+ok: 1
+33
+rotating 17
+ok: 0
+50
+rotating -56
+ok: 1
+94
+rotating -97
+ok: 1
+97
+rotating 36
+ok: 1
+33
+rotating -4
+ok: 0
+29
+rotating 71
+ok: 1
+0
+rotating -92
+ok: 1
+8
+rotating 66
+ok: 0
+74
+rotating -83
+ok: 1
+91
+rotating -56
+ok: 0
+35
+rotating -135
+ok: -1
+0
+rotating 836
+ok: 8
+36
+rotating -60
+ok: 1
+76
+rotating 29
+ok: 1
+5
+rotating -405
+ok: -4
+0
+rotating 29
+ok: 0
+29
+rotating 70
+ok: 0
+99
+rotating 947
+ok: 10
+46
+rotating -46
+ok: 0
+0
+rotating 710
+ok: 7
+10
+rotating 90
+ok: 1
+0
+rotating 339
+ok: 3
+39
+rotating 62
+ok: 1
+1
+rotating 99
+ok: 1
+0
+rotating -48
+ok: 1
+52
+rotating 18
+ok: 0
+70
+rotating 30
+ok: 1
+0
+rotating 56
+ok: 0
+56
+rotating -35
+ok: 0
+21
+rotating 79
+ok: 1
+0
+rotating -54
+ok: 1
+46
+rotating 54
+ok: 1
+0
+rotating 57
+ok: 0
+57
+rotating 86
+ok: 1
+43
+rotating 412
+ok: 4
+55
+rotating -55
+ok: 0
+0
+rotating -18
+ok: 1
+82
+rotating -41
+ok: 0
+41
+rotating -241
+ok: -2
+0
+rotating -215
+ok: -1
+85
+rotating 504
+ok: 5
+89
+rotating 61
+ok: 1
+50
+rotating -22
+ok: 0
+28
+rotating 72
+ok: 1
+0
+rotating -591
+ok: -4
+9
+rotating -88
+ok: 1
+21
+rotating 313
+ok: 3
+34
+rotating -50
+ok: 1
+84
+rotating -4
+ok: 0
+80
+rotating -80
+ok: 0
+0
+rotating 494
+ok: 4
+94
+rotating 105
+ok: 1
+99
+rotating -564
+ok: -3
+35
+rotating 52
+ok: 0
+87
+rotating -87
+ok: 0
+0
+rotating -42
+ok: 1
+58
+rotating 84
+ok: 1
+42
+rotating -42
+ok: 0
+0
+rotating -63
+ok: 1
+37
+rotating -37
+ok: 0
+0
+rotating 83
+ok: 0
+83
+rotating 17
+ok: 1
+0
+rotating -47
+ok: 1
+53
+rotating -95
+ok: 1
+58
+rotating -858
+ok: -8
+0
+rotating -58
+ok: 1
+42
+rotating -69
+ok: 1
+73
+rotating 91
+ok: 1
+64
+rotating 260
+ok: 3
+24
+rotating 76
+ok: 1
+0
+rotating -54
+ok: 1
+46
+rotating -32
+ok: 0
+14
+rotating -701
+ok: -5
+13
+rotating -13
+ok: 0
+0
+rotating 32
+ok: 0
+32
+rotating -32
+ok: 0
+0
+rotating -116
+ok: 0
+84
+rotating 86
+ok: 1
+70
+rotating 469
+ok: 5
+39
+rotating 61
+ok: 1
+0
+rotating 67
+ok: 0
+67
+rotating -12
+ok: 0
+55
+rotating -11
+ok: 0
+44
+rotating 78
+ok: 1
+22
+rotating -22
+ok: 0
+0
+rotating 79
+ok: 0
+79
+rotating 67
+ok: 1
+46
+rotating -6
+ok: 0
+40
+rotating 60
+ok: 1
+0
+rotating 38
+ok: 0
+38
+rotating -94
+ok: 1
+44
+rotating -225
+ok: 0
+19
+rotating 74
+ok: 0
+93
+rotating 75
+ok: 1
+68
+rotating -80
+ok: 1
+88
+rotating -43
+ok: 0
+45
+rotating -45
+ok: 0
+0
+rotating 49
+ok: 0
+49
+rotating -49
+ok: 0
+0
+rotating 51
+ok: 0
+51
+rotating -92
+ok: 1
+59
+rotating 58
+ok: 1
+17
+rotating 20
+ok: 0
+37
+rotating 41
+ok: 0
+78
+rotating -732
+ok: -5
+46
+rotating 74
+ok: 1
+20
+rotating -20
+ok: 0
+0
+rotating -48
+ok: 1
+52
+rotating -38
+ok: 0
+14
+rotating -14
+ok: 0
+0
+rotating -76
+ok: 1
+24
+rotating 9
+ok: 0
+33
+rotating -754
+ok: -6
+79
+rotating -579
+ok: -5
+0
+rotating 52
+ok: 0
+52
+rotating 55
+ok: 1
+7
+rotating 91
+ok: 0
+98
+rotating 6
+ok: 1
+4
+rotating -48
+ok: 1
+56
+rotating 237
+ok: 2
+93
+rotating -193
+ok: -1
+0
+rotating -59
+ok: 1
+41
+rotating 824
+ok: 8
+65
+rotating -33
+ok: 0
+32
+rotating -8
+ok: 0
+24
+rotating -624
+ok: -6
+0
+rotating 50
+ok: 0
+50
+rotating -2
+ok: 0
+48
+rotating -57
+ok: 1
+91
+rotating -4
+ok: 0
+87
+rotating 5
+ok: 0
+92
+rotating 5
+ok: 0
+97
+rotating 3
+ok: 1
+0
+rotating -22
+ok: 1
+78
+rotating -50
+ok: 0
+28
+rotating -28
+ok: 0
+0
+rotating 44
+ok: 0
+44
+rotating 156
+ok: 2
+0
+rotating 7
+ok: 0
+7
+rotating 92
+ok: 0
+99
+rotating 1
+ok: 1
+0
+rotating 702
+ok: 7
+2
+rotating 28
+ok: 0
+30
+rotating 64
+ok: 0
+94
+rotating 38
+ok: 1
+32
+rotating 68
+ok: 1
+0
+rotating 60
+ok: 0
+60
+rotating -77
+ok: 1
+83
+rotating 20
+ok: 1
+3
+rotating 22
+ok: 0
+25
+rotating -180
+ok: 0
+45
+rotating -722
+ok: -5
+23
+rotating 77
+ok: 1
+0
+rotating -34
+ok: 1
+66
+rotating 434
+ok: 5
+0
+rotating 19
+ok: 0
+19
+rotating -98
+ok: 1
+21
+rotating -697
+ok: -5
+24
+rotating 62
+ok: 0
+86
+rotating 92
+ok: 1
+78
+rotating -99
+ok: 1
+79
+rotating -79
+ok: 0
+0
+rotating -44
+ok: 1
+56
+rotating -256
+ok: -2
+0
+rotating -72
+ok: 1
+28
+rotating -37
+ok: 1
+91
+rotating 17
+ok: 1
+8
+rotating -54
+ok: 1
+54
+rotating -54
+ok: 0
+0
+rotating -42
+ok: 1
+58
+rotating 26
+ok: 0
+84
+rotating 409
+ok: 4
+93
+rotating 47
+ok: 1
+40
+rotating 65
+ok: 1
+5
+rotating 68
+ok: 0
+73
+rotating 827
+ok: 9
+0
+rotating -50
+ok: 1
+50
+rotating 10
+ok: 0
+60
+rotating -11
+ok: 0
+49
+rotating -149
+ok: -1
+0
+rotating -55
+ok: 1
+45
+rotating -91
+ok: 1
+54
+rotating -782
+ok: -6
+72
+rotating 46
+ok: 1
+18
+rotating 82
+ok: 1
+0
+rotating -6
+ok: 1
+94
+rotating -24
+ok: 0
+70
+rotating 60
+ok: 1
+30
+rotating -33
+ok: 1
+97
+rotating 74
+ok: 1
+71
+rotating -171
+ok: -1
+0
+rotating -132
+ok: 0
+68
+rotating 21
+ok: 0
+89
+rotating 52
+ok: 1
+41
+rotating -47
+ok: 1
+94
+rotating -194
+ok: -1
+0
+rotating 27
+ok: 0
+27
+rotating -821
+ok: -6
+6
+rotating -54
+ok: 1
+52
+rotating 33
+ok: 0
+85
+rotating 689
+ok: 7
+74
+rotating 87
+ok: 1
+61
+rotating 13
+ok: 0
+74
+rotating 26
+ok: 1
+0
+rotating -70
+ok: 1
+30
+rotating 42
+ok: 0
+72
+rotating 328
+ok: 4
+0
+rotating 25
+ok: 0
+25
+rotating -25
+ok: 0
+0
+rotating -18
+ok: 1
+82
+rotating -30
+ok: 0
+52
+rotating -96
+ok: 1
+56
+rotating 93
+ok: 1
+49
+rotating 51
+ok: 1
+0
+rotating 29
+ok: 0
+29
+rotating 53
+ok: 0
+82
+rotating -82
+ok: 0
+0
+rotating 20
+ok: 0
+20
+rotating 67
+ok: 0
+87
+rotating -987
+ok: -9
+0
+rotating 97
+ok: 0
+97
+rotating -37
+ok: 0
+60
+rotating -60
+ok: 0
+0
+rotating -23
+ok: 1
+77
+rotating 553
+ok: 6
+30
+rotating -86
+ok: 1
+44
+rotating -103
+ok: 1
+41
+rotating 859
+ok: 9
+0
+rotating -93
+ok: 1
+7
+rotating 93
+ok: 1
+0
+rotating 699
+ok: 6
+99
+rotating -499
+ok: -4
+0
+rotating 13
+ok: 0
+13
+rotating -25
+ok: 1
+88
+rotating -688
+ok: -6
+0
+rotating 349
+ok: 3
+49
+rotating 51
+ok: 1
+0
+rotating 67
+ok: 0
+67
+rotating 19
+ok: 0
+86
+rotating 81
+ok: 1
+67
+rotating -582
+ok: -4
+85
+rotating 85
+ok: 1
+70
+rotating 23
+ok: 0
+93
+rotating 7
+ok: 1
+0
+rotating -54
+ok: 1
+46
+rotating -46
+ok: 0
+0
+rotating 76
+ok: 0
+76
+rotating 98
+ok: 1
+74
+rotating 14
+ok: 0
+88
+rotating -226
+ok: 0
+62
+rotating 37
+ok: 0
+99
+rotating 63
+ok: 1
+62
+rotating -662
+ok: -6
+0
+rotating -426
+ok: -3
+74
+rotating -74
+ok: 0
+0
+rotating -89
+ok: 1
+11
+rotating -11
+ok: 0
+0
+rotating -51
+ok: 1
+49
+rotating -84
+ok: 1
+65
+rotating -99
+ok: 1
+66
+rotating 60
+ok: 1
+26
+rotating -56
+ok: 1
+70
+rotating -385
+ok: -2
+85
+rotating -85
+ok: 0
+0
+rotating 91
+ok: 0
+91
+rotating 50
+ok: 1
+41
+rotating 59
+ok: 1
+0
+rotating 29
+ok: 0
+29
+rotating -229
+ok: -2
+0
+rotating 32
+ok: 0
+32
+rotating 68
+ok: 1
+0
+rotating 16
+ok: 0
+16
+rotating -16
+ok: 0
+0
+rotating 972
+ok: 9
+72
+rotating -72
+ok: 0
+0
+rotating 82
+ok: 0
+82
+rotating 18
+ok: 1
+0
+rotating -12
+ok: 1
+88
+rotating -577
+ok: -3
+11
+rotating 89
+ok: 1
+0
+rotating 36
+ok: 0
+36
+rotating -43
+ok: 1
+93
+rotating -49
+ok: 0
+44
+rotating 31
+ok: 0
+75
+rotating -16
+ok: 0
+59
+rotating 41
+ok: 1
+0
+rotating -17
+ok: 1
+83
+rotating 37
+ok: 1
+20
+rotating 2
+ok: 0
+22
+rotating 65
+ok: 0
+87
+rotating -29
+ok: 0
+58
+rotating 42
+ok: 1
+0
+rotating -96
+ok: 1
+4
+rotating 996
+ok: 10
+0
+rotating 29
+ok: 0
+29
+rotating 11
+ok: 0
+40
+rotating -71
+ok: 1
+69
+rotating 760
+ok: 8
+29
+rotating 744
+ok: 7
+73
+rotating -73
+ok: 0
+0
+rotating 60
+ok: 0
+60
+rotating 95
+ok: 1
+55
+rotating -87
+ok: 1
+68
+rotating -24
+ok: 0
+44
+rotating 56
+ok: 1
+0
+rotating 37
+ok: 0
+37
+rotating 63
+ok: 1
+0
+rotating -339
+ok: -2
+61
+rotating 64
+ok: 1
+25
+rotating -972
+ok: -8
+53
+rotating 382
+ok: 4
+35
+rotating -35
+ok: 0
+0
+rotating 60
+ok: 0
+60
+rotating -254
+ok: 0
+6
+rotating -147
+ok: 0
+59
+rotating -2
+ok: 0
+57
+rotating 84
+ok: 1
+41
+rotating -18
+ok: 0
+23
+rotating -37
+ok: 1
+86
+rotating 33
+ok: 1
+19
+rotating 57
+ok: 0
+76
+rotating 34
+ok: 1
+10
+rotating -743
+ok: -6
+67
+rotating 1
+ok: 0
+68
+rotating 47
+ok: 1
+15
+rotating 85
+ok: 1
+0
+rotating 155
+ok: 1
+55
+rotating -55
+ok: 0
+0
+rotating 33
+ok: 0
+33
+rotating 24
+ok: 0
+57
+rotating -57
+ok: 0
+0
+rotating 21
+ok: 0
+21
+rotating 887
+ok: 9
+8
+rotating 92
+ok: 1
+0
+rotating -152
+ok: 0
+48
+rotating 4
+ok: 0
+52
+rotating 948
+ok: 10
+0
+rotating -63
+ok: 1
+37
+rotating 56
+ok: 0
+93
+rotating 23
+ok: 1
+16
+rotating -34
+ok: 1
+82
+rotating -93
+ok: 1
+89
+rotating 11
+ok: 1
+0
+rotating 6
+ok: 0
+6
+rotating 19
+ok: 0
+25
+rotating -98
+ok: 1
+27
+rotating -667
+ok: -5
+60
+rotating -60
+ok: 0
+0
+rotating 91
+ok: 0
+91
+rotating 57
+ok: 1
+48
+rotating -48
+ok: 0
+0
+rotating -554
+ok: -4
+46
+rotating -30
+ok: 0
+16
+rotating -2
+ok: 0
+14
+rotating -971
+ok: -8
+43
+rotating 61
+ok: 1
+4
+rotating 780
+ok: 7
+84
+rotating -21
+ok: 0
+63
+rotating -63
+ok: 0
+0
+rotating -81
+ok: 1
+19
+rotating -395
+ok: -2
+24
+rotating -6
+ok: 0
+18
+rotating -48
+ok: 1
+70
+rotating 14
+ok: 0
+84
+rotating -97
+ok: 1
+87
+rotating 20
+ok: 1
+7
+rotating 93
+ok: 1
+0
+rotating 55
+ok: 0
+55
+rotating 630
+ok: 6
+85
+rotating -70
+ok: 0
+15
+rotating 7
+ok: 0
+22
+rotating -22
+ok: 0
+0
+rotating 65
+ok: 0
+65
+rotating 258
+ok: 3
+23
+rotating -986
+ok: -8
+37
+rotating -6
+ok: 0
+31
+rotating -452
+ok: -3
+79
+rotating -79
+ok: 0
+0
+rotating -92
+ok: 1
+8
+rotating -44
+ok: 1
+64
+rotating -64
+ok: 0
+0
+rotating 35
+ok: 0
+35
+rotating 11
+ok: 0
+46
+rotating 26
+ok: 0
+72
+rotating -20
+ok: 0
+52
+rotating 56
+ok: 1
+8
+rotating 292
+ok: 3
+0
+rotating -10
+ok: 1
+90
+rotating 38
+ok: 1
+28
+rotating 45
+ok: 0
+73
+rotating 27
+ok: 1
+0
+rotating 31
+ok: 0
+31
+rotating 50
+ok: 0
+81
+rotating -351
+ok: -1
+30
+rotating 45
+ok: 0
+75
+rotating -75
+ok: 0
+0
+rotating -23
+ok: 1
+77
+rotating -77
+ok: 0
+0
+rotating 514
+ok: 5
+14
+rotating 86
+ok: 1
+0
+rotating 22
+ok: 0
+22
+rotating 78
+ok: 1
+0
+rotating -71
+ok: 1
+29
+rotating -325
+ok: -1
+4
+rotating -904
+ok: -9
+0
+rotating -555
+ok: -4
+45
+rotating -45
+ok: 0
+0
+rotating -95
+ok: 1
+5
+rotating 60
+ok: 0
+65
+rotating -99
+ok: 1
+66
+rotating 2
+ok: 0
+68
+rotating 32
+ok: 1
+0
+rotating 49
+ok: 0
+49
+rotating -49
+ok: 0
+0
+rotating -62
+ok: 1
+38
+rotating 10
+ok: 0
+48
+rotating -27
+ok: 0
+21
+rotating 593
+ok: 6
+14
+rotating 75
+ok: 0
+89
+rotating -80
+ok: 0
+9
+rotating -9
+ok: 0
+0
+rotating -90
+ok: 1
+10
+rotating 790
+ok: 8
+0
+rotating 27
+ok: 0
+27
+rotating -84
+ok: 1
+43
+rotating 83
+ok: 1
+26
+rotating 459
+ok: 4
+85
+rotating 83
+ok: 1
+68
+rotating -169
+ok: 0
+99
+rotating 41
+ok: 1
+40
+rotating 32
+ok: 0
+72
+rotating -45
+ok: 0
+27
+rotating 82
+ok: 1
+9
+rotating -258
+ok: -1
+51
+rotating 749
+ok: 8
+0
+rotating -7
+ok: 1
+93
+rotating -40
+ok: 0
+53
+rotating -463
+ok: -3
+90
+rotating -990
+ok: -9
+0
+rotating -7
+ok: 1
+93
+rotating -166
+ok: 1
+27
+rotating -72
+ok: 1
+55
+rotating 45
+ok: 1
+0
+rotating 23
+ok: 0
+23
+rotating -23
+ok: 0
+0
+rotating 85
+ok: 0
+85
+rotating 415
+ok: 5
+0
+rotating -74
+ok: 1
+26
+rotating -26
+ok: 0
+0
+rotating -45
+ok: 1
+55
+rotating 59
+ok: 1
+14
+rotating -323
+ok: -2
+91
+rotating -98
+ok: 1
+93
+rotating -93
+ok: 0
+0
+rotating 944
+ok: 9
+44
+rotating -11
+ok: 0
+33
+rotating -77
+ok: 1
+56
+rotating -9
+ok: 0
+47
+rotating 53
+ok: 1
+0
+rotating 28
+ok: 0
+28
+rotating 41
+ok: 0
+69
+rotating -62
+ok: 0
+7
+rotating 97
+ok: 1
+4
+rotating 55
+ok: 0
+59
+rotating -52
+ok: 0
+7
+rotating 992
+ok: 9
+99
+rotating -99
+ok: 0
+0
+rotating -851
+ok: -7
+49
+rotating 51
+ok: 1
+0
+rotating 527
+ok: 5
+27
+rotating 97
+ok: 1
+24
+rotating -24
+ok: 0
+0
+rotating -734
+ok: -6
+66
+rotating 71
+ok: 1
+37
+rotating -518
+ok: -3
+19
+rotating 281
+ok: 3
+0
+rotating -4
+ok: 1
+96
+rotating 27
+ok: 1
+23
+rotating 677
+ok: 7
+0
+rotating -78
+ok: 1
+22
+rotating -32
+ok: 1
+90
+rotating -75
+ok: 0
+15
+rotating -580
+ok: -4
+35
+rotating 86
+ok: 1
+21
+rotating 179
+ok: 2
+0
+rotating -6
+ok: 1
+94
+rotating 86
+ok: 1
+80
+rotating 20
+ok: 1
+0
+rotating 994
+ok: 9
+94
+rotating -86
+ok: 0
+8
+rotating -70
+ok: 1
+38
+rotating 82
+ok: 1
+20
+rotating 80
+ok: 1
+0
+rotating -9
+ok: 1
+91
+rotating -991
+ok: -9
+0
+rotating 86
+ok: 0
+86
+rotating -72
+ok: 0
+14
+rotating -814
+ok: -8
+0
+rotating -24
+ok: 1
+76
+rotating -66
+ok: 0
+10
+rotating -41
+ok: 1
+69
+rotating -69
+ok: 0
+0
+rotating -897
+ok: -7
+3
+rotating 259
+ok: 2
+62
+rotating 8
+ok: 0
+70
+rotating -70
+ok: 0
+0
+rotating 96
+ok: 0
+96
+rotating 68
+ok: 1
+64
+rotating -18
+ok: 0
+46
+rotating -14
+ok: 0
+32
+rotating -832
+ok: -8
+0
+rotating -315
+ok: -2
+85
+rotating -85
+ok: 0
+0
+rotating 56
+ok: 0
+56
+rotating -56
+ok: 0
+0
+rotating -5
+ok: 1
+95
+rotating -7
+ok: 0
+88
+rotating -66
+ok: 0
+22
+rotating -44
+ok: 1
+78
+rotating 67
+ok: 1
+45
+rotating 98
+ok: 1
+43
+rotating 57
+ok: 1
+0
+rotating 10
+ok: 0
+10
+rotating 490
+ok: 5
+0
+rotating -81
+ok: 1
+19
+rotating -89
+ok: 1
+30
+rotating -29
+ok: 0
+1
+rotating 99
+ok: 1
+0
+rotating -84
+ok: 1
+16
+rotating -69
+ok: 1
+47
+rotating -947
+ok: -9
+0
+rotating 99
+ok: 0
+99
+rotating 15
+ok: 1
+14
+rotating -41
+ok: 1
+73
+rotating -78
+ok: 1
+95
+rotating 58
+ok: 1
+53
+rotating -19
+ok: 0
+34
+rotating 57
+ok: 0
+91
+rotating -736
+ok: -5
+55
+rotating -22
+ok: 0
+33
+rotating 96
+ok: 1
+29
+rotating 71
+ok: 1
+0
+rotating -59
+ok: 1
+41
+rotating 87
+ok: 1
+28
+rotating 39
+ok: 0
+67
+rotating 655
+ok: 7
+22
+rotating 84
+ok: 1
+6
+rotating -97
+ok: 1
+9
+rotating 40
+ok: 0
+49
+rotating 938
+ok: 9
+87
+rotating -5
+ok: 0
+82
+rotating -10
+ok: 0
+72
+rotating 56
+ok: 1
+28
+rotating 24
+ok: 0
+52
+rotating -952
+ok: -9
+0
+rotating -20
+ok: 1
+80
+rotating -956
+ok: -7
+24
+rotating -77
+ok: 1
+47
+rotating -47
+ok: 0
+0
+rotating 73
+ok: 0
+73
+rotating 27
+ok: 1
+0
+rotating -9
+ok: 1
+91
+rotating 309
+ok: 4
+0
+rotating 93
+ok: 0
+93
+rotating -50
+ok: 0
+43
+rotating -80
+ok: 1
+63
+rotating 32
+ok: 0
+95
+rotating 3
+ok: 0
+98
+rotating 754
+ok: 8
+52
+rotating 53
+ok: 1
+5
+rotating 95
+ok: 1
+0
+rotating 52
+ok: 0
+52
+rotating 48
+ok: 1
+0
+rotating -38
+ok: 1
+62
+rotating 284
+ok: 3
+46
+rotating 688
+ok: 7
+34
+rotating 9
+ok: 0
+43
+rotating 81
+ok: 1
+24
+rotating 93
+ok: 1
+17
+rotating -17
+ok: 0
+0
+rotating -387
+ok: -2
+13
+rotating -713
+ok: -7
+0
+rotating -1
+ok: 1
+99
+rotating -99
+ok: 0
+0
+rotating -35
+ok: 1
+65
+rotating 35
+ok: 1
+0
+rotating 146
+ok: 1
+46
+rotating 958
+ok: 10
+4
+rotating 96
+ok: 1
+0
+rotating -7
+ok: 1
+93
+rotating -58
+ok: 0
+35
+rotating 65
+ok: 1
+0
+rotating -12
+ok: 1
+88
+rotating 826
+ok: 9
+14
+rotating -14
+ok: 0
+0
+rotating -15
+ok: 1
+85
+rotating 53
+ok: 1
+38
+rotating 15
+ok: 0
+53
+rotating -265
+ok: -1
+88
+rotating 71
+ok: 1
+59
+rotating 41
+ok: 1
+0
+rotating 70
+ok: 0
+70
+rotating 930
+ok: 10
+0
+rotating 6
+ok: 0
+6
+rotating 94
+ok: 1
+0
+rotating -98
+ok: 1
+2
+rotating 694
+ok: 6
+96
+rotating -96
+ok: 0
+0
+rotating -9
+ok: 1
+91
+rotating -991
+ok: -9
+0
+rotating -34
+ok: 1
+66
+rotating -66
+ok: 0
+0
+rotating -29
+ok: 1
+71
+rotating 53
+ok: 1
+24
+rotating 76
+ok: 1
+0
+rotating 61
+ok: 0
+61
+rotating 39
+ok: 1
+0
+rotating 72
+ok: 0
+72
+rotating -343
+ok: -1
+29
+rotating -729
+ok: -7
+0
+rotating -91
+ok: 1
+9
+rotating -767
+ok: -6
+42
+rotating -10
+ok: 0
+32
+rotating 46
+ok: 0
+78
+rotating -78
+ok: 0
+0
+rotating 9
+ok: 0
+9
+rotating 91
+ok: 1
+0
+rotating -91
+ok: 1
+9
+rotating -87
+ok: 1
+22
+rotating -622
+ok: -6
+0
+rotating 47
+ok: 0
+47
+rotating -47
+ok: 0
+0
+rotating 826
+ok: 8
+26
+rotating -96
+ok: 1
+30
+rotating 72
+ok: 1
+2
+rotating -40
+ok: 1
+62
+rotating -36
+ok: 0
+26
+rotating 74
+ok: 1
+0
+rotating 12
+ok: 0
+12
+rotating 72
+ok: 0
+84
+rotating 95
+ok: 1
+79
+rotating -115
+ok: 1
+64
+rotating 32
+ok: 0
+96
+rotating 804
+ok: 9
+0
+rotating -927
+ok: -8
+73
+rotating -73
+ok: 0
+0
+rotating -92
+ok: 1
+8
+rotating 397
+ok: 4
+5
+rotating 95
+ok: 1
+0
+rotating -65
+ok: 1
+35
+rotating 66
+ok: 1
+1
+rotating 72
+ok: 0
+73
+rotating 323
+ok: 3
+96
+rotating -78
+ok: 0
+18
+rotating -46
+ok: 1
+72
+rotating 6
+ok: 0
+78
+rotating -3
+ok: 0
+75
+rotating 78
+ok: 1
+53
+rotating -25
+ok: 0
+28
+rotating -77
+ok: 1
+51
+rotating 65
+ok: 1
+16
+rotating -16
+ok: 0
+0
+rotating 50
+ok: 0
+50
+rotating -150
+ok: -1
+0
+rotating -876
+ok: -7
+24
+rotating -95
+ok: 1
+29
+rotating 79
+ok: 1
+8
+rotating 36
+ok: 0
+44
+rotating -44
+ok: 0
+0
+rotating -6
+ok: 1
+94
+rotating 16
+ok: 1
+10
+rotating 90
+ok: 1
+0
+rotating -94
+ok: 1
+6
+rotating -10
+ok: 1
+96
+rotating 43
+ok: 1
+39
+rotating 61
+ok: 1
+0
+rotating 44
+ok: 0
+44
+rotating 22
+ok: 0
+66
+rotating -822
+ok: -6
+44
+rotating -14
+ok: 0
+30
+rotating 82
+ok: 1
+12
+rotating 97
+ok: 1
+9
+rotating 91
+ok: 1
+0
+rotating 816
+ok: 8
+16
+rotating -446
+ok: -3
+70
+rotating 494
+ok: 5
+64
+rotating 36
+ok: 1
+0
+rotating 22
+ok: 0
+22
+rotating 578
+ok: 6
+0
+rotating -619
+ok: -5
+81
+rotating 81
+ok: 1
+62
+rotating 38
+ok: 1
+0
+rotating 123
+ok: 1
+23
+rotating -53
+ok: 1
+70
+rotating 6
+ok: 0
+76
+rotating 52
+ok: 1
+28
+rotating -39
+ok: 1
+89
+rotating -304
+ok: -1
+85
+rotating -69
+ok: 0
+16
+rotating 95
+ok: 1
+11
+rotating 66
+ok: 0
+77
+rotating 23
+ok: 1
+0
+rotating 43
+ok: 0
+43
+rotating 650
+ok: 6
+93
+rotating -47
+ok: 0
+46
+rotating -46
+ok: 0
+0
+rotating 32
+ok: 0
+32
+rotating -32
+ok: 0
+0
+rotating -30
+ok: 1
+70
+rotating 66
+ok: 1
+36
+rotating -36
+ok: 0
+0
+rotating 21
+ok: 0
+21
+rotating -21
+ok: 0
+0
+rotating 29
+ok: 0
+29
+rotating 766
+ok: 7
+95
+rotating -15
+ok: 0
+80
+rotating 61
+ok: 1
+41
+rotating -41
+ok: 0
+0
+rotating -21
+ok: 1
+79
+rotating 49
+ok: 1
+28
+rotating -28
+ok: 0
+0
+rotating -54
+ok: 1
+46
+rotating 54
+ok: 1
+0
+rotating -452
+ok: -3
+48
+rotating 73
+ok: 1
+21
+rotating -34
+ok: 1
+87
+rotating -639
+ok: -4
+48
+rotating 68
+ok: 1
+16
+rotating -16
+ok: 0
+0
+rotating 8
+ok: 0
+8
+rotating -8
+ok: 0
+0
+rotating -38
+ok: 1
+62
+rotating 576
+ok: 6
+38
+rotating 86
+ok: 1
+24
+rotating 76
+ok: 1
+0
+rotating -52
+ok: 1
+48
+rotating -848
+ok: -8
+0
+rotating -47
+ok: 1
+53
+rotating -864
+ok: -7
+89
+rotating -212
+ok: 0
+77
+rotating 23
+ok: 1
+0
+rotating 57
+ok: 0
+57
+rotating 30
+ok: 0
+87
+rotating -46
+ok: 0
+41
+rotating 59
+ok: 1
+0
+rotating -1
+ok: 1
+99
+rotating -99
+ok: 0
+0
+rotating 720
+ok: 7
+20
+rotating -71
+ok: 1
+49
+rotating -521
+ok: -3
+28
+rotating 572
+ok: 6
+0
+rotating 830
+ok: 8
+30
+rotating 34
+ok: 0
+64
+rotating 36
+ok: 1
+0
+rotating 52
+ok: 0
+52
+rotating -74
+ok: 1
+78
+rotating 20
+ok: 0
+98
+rotating -40
+ok: 0
+58
+rotating -58
+ok: 0
+0
+rotating 23
+ok: 0
+23
+rotating -23
+ok: 0
+0
+rotating -81
+ok: 1
+19
+rotating 20
+ok: 0
+39
+rotating 21
+ok: 0
+60
+rotating 40
+ok: 1
+0
+rotating -824
+ok: -7
+76
+rotating -776
+ok: -7
+0
+rotating 84
+ok: 0
+84
+rotating 8
+ok: 0
+92
+rotating 53
+ok: 1
+45
+rotating -537
+ok: -3
+8
+rotating -80
+ok: 1
+28
+rotating -28
+ok: 0
+0
+rotating 95
+ok: 0
+95
+rotating 17
+ok: 1
+12
+rotating 39
+ok: 0
+51
+rotating 64
+ok: 1
+15
+rotating 50
+ok: 0
+65
+rotating 35
+ok: 1
+0
+rotating -84
+ok: 1
+16
+rotating 44
+ok: 0
+60
+rotating 8
+ok: 0
+68
+rotating 32
+ok: 1
+0
+rotating -4
+ok: 1
+96
+rotating -70
+ok: 0
+26
+rotating -326
+ok: -3
+0
+rotating -88
+ok: 1
+12
+rotating -58
+ok: 1
+54
+rotating -771
+ok: -6
+83
+rotating 57
+ok: 1
+40
+rotating 60
+ok: 1
+0
+rotating -90
+ok: 1
+10
+rotating -710
+ok: -7
+0
+rotating 632
+ok: 6
+32
+rotating -232
+ok: -2
+0
+rotating 38
+ok: 0
+38
+rotating 162
+ok: 2
+0
+rotating -10
+ok: 1
+90
+rotating 20
+ok: 1
+10
+rotating -10
+ok: 0
+0
+rotating 11
+ok: 0
+11
+rotating -93
+ok: 1
+18
+rotating -816
+ok: -6
+2
+rotating 48
+ok: 0
+50
+rotating -30
+ok: 0
+20
+rotating 29
+ok: 0
+49
+rotating -49
+ok: 0
+0
+rotating 29
+ok: 0
+29
+rotating -96
+ok: 1
+33
+rotating 67
+ok: 1
+0
+rotating 960
+ok: 9
+60
+rotating -69
+ok: 1
+91
+rotating -91
+ok: 0
+0
+rotating -50
+ok: 1
+50
+rotating 50
+ok: 1
+0
+rotating -9
+ok: 1
+91
+rotating -85
+ok: 0
+6
+rotating 49
+ok: 0
+55
+rotating -55
+ok: 0
+0
+rotating 25
+ok: 0
+25
+rotating -225
+ok: -2
+0
+rotating -7
+ok: 1
+93
+rotating -53
+ok: 0
+40
+rotating -12
+ok: 0
+28
+rotating -72
+ok: 1
+56
+rotating 75
+ok: 1
+31
+rotating -31
+ok: 0
+0
+rotating 50
+ok: 0
+50
+rotating -166
+ok: 0
+84
+rotating -884
+ok: -8
+0
+rotating -249
+ok: -1
+51
+rotating -65
+ok: 1
+86
+rotating -934
+ok: -7
+52
+rotating -493
+ok: -3
+59
+rotating -859
+ok: -8
+0
+rotating 587
+ok: 5
+87
+rotating -70
+ok: 0
+17
+rotating -43
+ok: 1
+74
+rotating -19
+ok: 0
+55
+rotating 45
+ok: 1
+0
+rotating -574
+ok: -4
+26
+rotating -785
+ok: -6
+41
+rotating 59
+ok: 1
+0
+rotating 69
+ok: 0
+69
+rotating -69
+ok: 0
+0
+rotating -35
+ok: 1
+65
+rotating 57
+ok: 1
+22
+rotating -722
+ok: -7
+0
+rotating -83
+ok: 1
+17
+rotating 483
+ok: 5
+0
+rotating -97
+ok: 1
+3
+rotating 96
+ok: 0
+99
+rotating 11
+ok: 1
+10
+rotating 91
+ok: 1
+1
+rotating 99
+ok: 1
+0
+rotating -271
+ok: -1
+29
+rotating 57
+ok: 0
+86
+rotating 75
+ok: 1
+61
+rotating 27
+ok: 0
+88
+rotating 12
+ok: 1
+0
+rotating -20
+ok: 1
+80
+rotating 56
+ok: 1
+36
+rotating -77
+ok: 1
+59
+rotating 41
+ok: 1
+0
+rotating -21
+ok: 1
+79
+rotating -79
+ok: 0
+0
+rotating -91
+ok: 1
+9
+rotating 891
+ok: 9
+0
+rotating -14
+ok: 1
+86
+rotating 28
+ok: 1
+14
+rotating 55
+ok: 0
+69
+rotating 23
+ok: 0
+92
+rotating -43
+ok: 0
+49
+rotating -32
+ok: 0
+17
+rotating 434
+ok: 4
+51
+rotating -103
+ok: 1
+48
+rotating -5
+ok: 0
+43
+rotating 35
+ok: 0
+78
+rotating 25
+ok: 1
+3
+rotating 240
+ok: 2
+43
+rotating 57
+ok: 1
+0
+rotating -5
+ok: 1
+95
+rotating 867
+ok: 9
+62
+rotating 77
+ok: 1
+39
+rotating -83
+ok: 1
+56
+rotating -256
+ok: -2
+0
+rotating -488
+ok: -3
+12
+rotating 53
+ok: 0
+65
+rotating -345
+ok: -1
+20
+rotating -68
+ok: 1
+52
+rotating -77
+ok: 1
+75
+rotating 5
+ok: 0
+80
+rotating -80
+ok: 0
+0
+rotating -606
+ok: -5
+94
+rotating -8
+ok: 0
+86
+rotating 14
+ok: 1
+0
+rotating -62
+ok: 1
+38
+rotating -81
+ok: 1
+57
+rotating 43
+ok: 1
+0
+rotating -95
+ok: 1
+5
+rotating 97
+ok: 1
+2
+rotating 527
+ok: 5
+29
+rotating 19
+ok: 0
+48
+rotating -651
+ok: -5
+97
+rotating 3
+ok: 1
+0
+rotating -386
+ok: -2
+14
+rotating -14
+ok: 0
+0
+rotating -992
+ok: -8
+8
+rotating 292
+ok: 3
+0
+rotating -36
+ok: 1
+64
+rotating -94
+ok: 1
+70
+rotating 80
+ok: 1
+50
+rotating 93
+ok: 1
+43
+rotating -10
+ok: 0
+33
+rotating 65
+ok: 0
+98
+rotating 70
+ok: 1
+68
+rotating -68
+ok: 0
+0
+rotating 61
+ok: 0
+61
+rotating -61
+ok: 0
+0
+rotating 12
+ok: 0
+12
+rotating -98
+ok: 1
+14
+rotating -94
+ok: 1
+20
+rotating 1
+ok: 0
+21
+rotating -422
+ok: -3
+99
+rotating 5
+ok: 1
+4
+rotating 92
+ok: 0
+96
+rotating -3
+ok: 0
+93
+rotating 32
+ok: 1
+25
+rotating 75
+ok: 1
+0
+rotating 302
+ok: 3
+2
+rotating 796
+ok: 7
+98
+rotating -98
+ok: 0
+0
+rotating 1
+ok: 0
+1
+rotating 99
+ok: 1
+0
+rotating -42
+ok: 1
+58
+rotating -60
+ok: 1
+98
+rotating 2
+ok: 1
+0
+rotating 26
+ok: 0
+26
+rotating 25
+ok: 0
+51
+rotating 49
+ok: 1
+0
+rotating 98
+ok: 0
+98
+rotating -36
+ok: 0
+62
+rotating -52
+ok: 0
+10
+rotating 290
+ok: 3
+0
+rotating 79
+ok: 0
+79
+rotating -53
+ok: 0
+26
+rotating -26
+ok: 0
+0
+rotating -59
+ok: 1
+41
+rotating 40
+ok: 0
+81
+rotating -85
+ok: 1
+96
+rotating 46
+ok: 1
+42
+rotating 58
+ok: 1
+0
+rotating 27
+ok: 0
+27
+rotating 87
+ok: 1
+14
+rotating 38
+ok: 0
+52
+rotating 237
+ok: 2
+89
+rotating 11
+ok: 1
+0
+rotating -74
+ok: 1
+26
+rotating 64
+ok: 0
+90
+rotating 885
+ok: 9
+75
+rotating 56
+ok: 1
+31
+rotating -62
+ok: 1
+69
+rotating 1
+ok: 0
+70
+rotating 432
+ok: 5
+2
+rotating -55
+ok: 1
+47
+rotating -647
+ok: -6
+0
+rotating 93
+ok: 0
+93
+rotating -5
+ok: 0
+88
+rotating 76
+ok: 1
+64
+rotating 11
+ok: 0
+75
+rotating 885
+ok: 9
+60
+rotating 149
+ok: 2
+9
+rotating 56
+ok: 0
+65
+rotating -99
+ok: 1
+66
+rotating -9
+ok: 0
+57
+rotating 97
+ok: 1
+54
+rotating -54
+ok: 0
+0
+rotating -38
+ok: 1
+62
+rotating 38
+ok: 1
+0
+rotating 12
+ok: 0
+12
+rotating 4
+ok: 0
+16
+rotating -16
+ok: 0
+0
+rotating -81
+ok: 1
+19
+rotating 81
+ok: 1
+0
+rotating 254
+ok: 2
+54
+rotating -54
+ok: 0
+0
+rotating -17
+ok: 1
+83
+rotating 91
+ok: 1
+74
+rotating -1
+ok: 0
+73
+rotating -510
+ok: -3
+63
+rotating 82
+ok: 1
+45
+rotating -45
+ok: 0
+0
+rotating 393
+ok: 3
+93
+rotating -93
+ok: 0
+0
+rotating 27
+ok: 0
+27
+rotating -92
+ok: 1
+35
+rotating -82
+ok: 1
+53
+rotating -53
+ok: 0
+0
+rotating 21
+ok: 0
+21
+rotating -15
+ok: 0
+6
+rotating -53
+ok: 1
+53
+rotating -253
+ok: -2
+0
+rotating -95
+ok: 1
+5
+rotating -10
+ok: 1
+95
+rotating -47
+ok: 0
+48
+rotating 29
+ok: 0
+77
+rotating 67
+ok: 1
+44
+rotating 83
+ok: 1
+27
+rotating 40
+ok: 0
+67
+rotating -2
+ok: 0
+65
+rotating 9
+ok: 0
+74
+rotating 12
+ok: 0
+86
+rotating -21
+ok: 0
+65
+rotating 46
+ok: 1
+11
+rotating -11
+ok: 0
+0
+rotating -79
+ok: 1
+21
+rotating 26
+ok: 0
+47
+rotating -30
+ok: 0
+17
+rotating 91
+ok: 1
+8
+rotating -330
+ok: -2
+78
+rotating 122
+ok: 2
+0
+rotating 70
+ok: 0
+70
+rotating -41
+ok: 0
+29
+rotating -65
+ok: 1
+64
+rotating -607
+ok: -4
+57
+rotating 9
+ok: 0
+66
+rotating -66
+ok: 0
+0
+rotating 43
+ok: 0
+43
+rotating 59
+ok: 1
+2
+rotating 98
+ok: 1
+0
+rotating -77
+ok: 1
+23
+rotating -45
+ok: 1
+78
+rotating 71
+ok: 1
+49
+rotating -549
+ok: -5
+0
+rotating 29
+ok: 0
+29
+rotating 71
+ok: 1
+0
+rotating -27
+ok: 1
+73
+rotating 27
+ok: 1
+0
+rotating -91
+ok: 1
+9
+rotating -942
+ok: -8
+67
+rotating 33
+ok: 1
+0
+rotating 843
+ok: 8
+43
+rotating 57
+ok: 1
+0
+rotating -31
+ok: 1
+69
+rotating -10
+ok: 0
+59
+rotating 41
+ok: 1
+0
+rotating -20
+ok: 1
+80
+rotating -80
+ok: 0
+0
+rotating -17
+ok: 1
+83
+rotating 80
+ok: 1
+63
+rotating 99
+ok: 1
+62
+rotating 45
+ok: 1
+7
+rotating -73
+ok: 1
+34
+rotating 24
+ok: 0
+58
+rotating 49
+ok: 1
+7
+rotating -7
+ok: 0
+0
+rotating 912
+ok: 9
+12
+rotating 45
+ok: 0
+57
+rotating 786
+ok: 8
+43
+rotating 3
+ok: 0
+46
+rotating -84
+ok: 1
+62
+rotating 57
+ok: 1
+19
+rotating 38
+ok: 0
+57
+rotating -93
+ok: 1
+64
+rotating 36
+ok: 1
+0
+rotating 23
+ok: 0
+23
+rotating 58
+ok: 0
+81
+rotating 19
+ok: 1
+0
+rotating -31
+ok: 1
+69
+rotating -63
+ok: 0
+6
+rotating 94
+ok: 1
+0
+rotating 3
+ok: 0
+3
+rotating 97
+ok: 1
+0
+rotating -779
+ok: -6
+21
+rotating 70
+ok: 0
+91
+rotating -60
+ok: 0
+31
+rotating -51
+ok: 1
+80
+rotating 93
+ok: 1
+73
+rotating 87
+ok: 1
+60
+rotating -960
+ok: -9
+0
+rotating -38
+ok: 1
+62
+rotating 38
+ok: 1
+0
+rotating 701
+ok: 7
+1
+rotating 85
+ok: 0
+86
+rotating 29
+ok: 1
+15
+rotating 69
+ok: 0
+84
+rotating 209
+ok: 2
+93
+rotating 7
+ok: 1
+0
+rotating -42
+ok: 1
+58
+rotating -73
+ok: 1
+85
+rotating 31
+ok: 1
+16
+rotating -99
+ok: 1
+17
+rotating -17
+ok: 0
+0
+rotating 756
+ok: 7
+56
+rotating -56
+ok: 0
+0
+rotating -82
+ok: 1
+18
+rotating -70
+ok: 1
+48
+rotating -748
+ok: -7
+0
+rotating 64
+ok: 0
+64
+rotating 836
+ok: 9
+0
+rotating 15
+ok: 0
+15
+rotating -76
+ok: 1
+39
+rotating 89
+ok: 1
+28
+rotating 39
+ok: 0
+67
+rotating -98
+ok: 1
+69
+rotating -77
+ok: 1
+92
+rotating -32
+ok: 0
+60
+rotating 240
+ok: 3
+0
+rotating 60
+ok: 0
+60
+rotating -43
+ok: 0
+17
+rotating 83
+ok: 1
+0
+rotating -33
+ok: 1
+67
+rotating -2
+ok: 0
+65
+rotating -65
+ok: 0
+0
+rotating 94
+ok: 0
+94
+rotating 69
+ok: 1
+63
+rotating 48
+ok: 1
+11
+rotating 56
+ok: 0
+67
+rotating -67
+ok: 0
+0
+rotating -61
+ok: 1
+39
+rotating -39
+ok: 0
+0
+rotating -55
+ok: 1
+45
+rotating -15
+ok: 0
+30
+rotating 71
+ok: 1
+1
+rotating 32
+ok: 0
+33
+rotating 2
+ok: 0
+35
+rotating 76
+ok: 1
+11
+rotating -19
+ok: 1
+92
+rotating 8
+ok: 1
+0
+rotating -97
+ok: 1
+3
+rotating -5
+ok: 1
+98
+rotating 2
+ok: 1
+0
+rotating -44
+ok: 1
+56
+rotating 92
+ok: 1
+48
+rotating -90
+ok: 1
+58
+rotating 64
+ok: 1
+22
+rotating -53
+ok: 1
+69
+rotating -85
+ok: 1
+84
+rotating -84
+ok: 0
+0
+rotating 48
+ok: 0
+48
+rotating 52
+ok: 1
+0
+rotating 10
+ok: 0
+10
+rotating 90
+ok: 1
+0
+rotating 81
+ok: 0
+81
+rotating 39
+ok: 1
+20
+rotating -90
+ok: 1
+30
+rotating 70
+ok: 1
+0
+rotating -85
+ok: 1
+15
+rotating 10
+ok: 0
+25
+rotating -25
+ok: 0
+0
+rotating -9
+ok: 1
+91
+rotating -31
+ok: 0
+60
+rotating 40
+ok: 1
+0
+rotating -25
+ok: 1
+75
+rotating 4
+ok: 0
+79
+rotating -435
+ok: -2
+44
+rotating 6
+ok: 0
+50
+rotating 72
+ok: 1
+22
+rotating 63
+ok: 0
+85
+rotating 11
+ok: 0
+96
+rotating 50
+ok: 1
+46
+rotating -782
+ok: -6
+64
+rotating 56
+ok: 1
+20
+rotating 82
+ok: 1
+2
+rotating -2
+ok: 0
+0
+rotating 8
+ok: 0
+8
+rotating 637
+ok: 6
+45
+rotating -35
+ok: 0
+10
+rotating 87
+ok: 0
+97
+rotating -797
+ok: -7
+0
+rotating -63
+ok: 1
+37
+rotating -76
+ok: 1
+61
+rotating 39
+ok: 1
+0
+rotating -314
+ok: -2
+86
+rotating 44
+ok: 1
+30
+rotating 570
+ok: 6
+0
+rotating -64
+ok: 1
+36
+rotating -778
+ok: -6
+58
+rotating -58
+ok: 0
+0
+rotating -106
+ok: 0
+94
+rotating -94
+ok: 0
+0
+rotating 21
+ok: 0
+21
+rotating -553
+ok: -4
+68
+rotating 49
+ok: 1
+17
+rotating 99
+ok: 1
+16
+rotating -74
+ok: 1
+42
+rotating 63
+ok: 1
+5
+rotating -79
+ok: 1
+26
+rotating -714
+ok: -5
+12
+rotating 21
+ok: 0
+33
+rotating 67
+ok: 1
+0
+rotating 93
+ok: 0
+93
+rotating -31
+ok: 0
+62
+rotating 938
+ok: 10
+0
+rotating 68
+ok: 0
+68
+rotating 32
+ok: 1
+0
+rotating 72
+ok: 0
+72
+rotating 83
+ok: 1
+55
+rotating 75
+ok: 1
+30
+rotating 170
+ok: 2
+0
+rotating 21
+ok: 0
+21
+rotating 26
+ok: 0
+47
+rotating -77
+ok: 1
+70
+rotating -99
+ok: 1
+71
+rotating 29
+ok: 1
+0
+rotating -49
+ok: 1
+51
+rotating 749
+ok: 8
+0
+rotating -86
+ok: 1
+14
+rotating -14
+ok: 0
+0
+rotating 10
+ok: 0
+10
+rotating 52
+ok: 0
+62
+rotating 42
+ok: 1
+4
+rotating -44
+ok: 1
+60
+rotating -401
+ok: -2
+59
+rotating -56
+ok: 0
+3
+rotating 420
+ok: 4
+23
+rotating 62
+ok: 0
+85
+rotating 15
+ok: 1
+0
+rotating 480
+ok: 4
+80
+rotating -83
+ok: 1
+97
+rotating -85
+ok: 0
+12
+rotating 59
+ok: 0
+71
+rotating -971
+ok: -9
+0
+rotating 98
+ok: 0
+98
+rotating -126
+ok: 1
+72
+rotating 78
+ok: 1
+50
+rotating -126
+ok: 1
+24
+rotating -24
+ok: 0
+0
+rotating -822
+ok: -7
+78
+rotating 28
+ok: 1
+6
+rotating 99
+ok: 1
+5
+rotating 69
+ok: 0
+74
+rotating 226
+ok: 3
+0
+rotating 24
+ok: 0
+24
+rotating -924
+ok: -9
+0
+rotating -27
+ok: 1
+73
+rotating 4
+ok: 0
+77
+rotating -80
+ok: 1
+97
+rotating -97
+ok: 0
+0
+rotating -5
+ok: 1
+95
+rotating -78
+ok: 0
+17
+rotating -39
+ok: 1
+78
+rotating 30
+ok: 1
+8
+rotating -8
+ok: 0
+0
+rotating 853
+ok: 8
+53
+rotating -53
+ok: 0
+0
+rotating -54
+ok: 1
+46
+rotating 54
+ok: 1
+0
+rotating 88
+ok: 0
+88
+rotating -14
+ok: 0
+74
+rotating -74
+ok: 0
+0
+rotating -51
+ok: 1
+49
+rotating 51
+ok: 1
+0
+rotating 2
+ok: 0
+2
+rotating -796
+ok: -6
+6
+rotating 39
+ok: 0
+45
+rotating 61
+ok: 1
+6
+rotating 49
+ok: 0
+55
+rotating -34
+ok: 0
+21
+rotating -83
+ok: 1
+38
+rotating 62
+ok: 1
+0
+rotating 65
+ok: 0
+65
+rotating -813
+ok: -6
+52
+rotating -752
+ok: -7
+0
+rotating -11
+ok: 1
+89
+rotating 24
+ok: 1
+13
+rotating -13
+ok: 0
+0
+rotating -86
+ok: 1
+14
+rotating -850
+ok: -7
+64
+rotating 36
+ok: 1
+0
+rotating 267
+ok: 2
+67
+rotating 73
+ok: 1
+40
+rotating -963
+ok: -8
+77
+rotating 23
+ok: 1
+0
+rotating -79
+ok: 1
+21
+rotating 879
+ok: 9
+0
+rotating 98
+ok: 0
+98
+rotating 68
+ok: 1
+66
+rotating -63
+ok: 0
+3
+rotating 97
+ok: 1
+0
+rotating 486
+ok: 4
+86
+rotating 92
+ok: 1
+78
+rotating -28
+ok: 0
+50
+rotating 31
+ok: 0
+81
+rotating -19
+ok: 0
+62
+rotating -62
+ok: 0
+0
+rotating 426
+ok: 4
+26
+rotating 76
+ok: 1
+2
+rotating 1
+ok: 0
+3
+rotating 97
+ok: 1
+0
+rotating 10
+ok: 0
+10
+rotating 82
+ok: 0
+92
+rotating 739
+ok: 8
+31
+rotating -31
+ok: 0
+0
+rotating 96
+ok: 0
+96
+rotating -396
+ok: -3
+0
+rotating 27
+ok: 0
+27
+rotating 73
+ok: 1
+0
+rotating 40
+ok: 0
+40
+rotating -9
+ok: 0
+31
+rotating 552
+ok: 5
+83
+rotating -25
+ok: 0
+58
+rotating -79
+ok: 1
+79
+rotating 65
+ok: 1
+44
+rotating 986
+ok: 10
+30
+rotating 570
+ok: 6
+0
+rotating 99
+ok: 0
+99
+rotating 5
+ok: 1
+4
+rotating -84
+ok: 1
+20
+rotating 80
+ok: 1
+0
+rotating -889
+ok: -7
+11
+rotating 89
+ok: 1
+0
+rotating -66
+ok: 1
+34
+rotating -8
+ok: 0
+26
+rotating 547
+ok: 5
+73
+rotating -6
+ok: 0
+67
+rotating -26
+ok: 0
+41
+rotating 84
+ok: 1
+25
+rotating -41
+ok: 1
+84
+rotating 263
+ok: 3
+47
+rotating 36
+ok: 0
+83
+rotating 17
+ok: 1
+0
+rotating 9
+ok: 0
+9
+rotating 56
+ok: 0
+65
+rotating -55
+ok: 0
+10
+rotating -89
+ok: 1
+21
+rotating -21
+ok: 0
+0
+rotating 27
+ok: 0
+27
+rotating 773
+ok: 8
+0
+rotating -34
+ok: 1
+66
+rotating 34
+ok: 1
+0
+rotating 823
+ok: 8
+23
+rotating 86
+ok: 1
+9
+rotating 45
+ok: 0
+54
+rotating 46
+ok: 1
+0
+rotating -15
+ok: 1
+85
+rotating 37
+ok: 1
+22
+rotating -427
+ok: -3
+95
+rotating -95
+ok: 0
+0
+rotating -68
+ok: 1
+32
+rotating -5
+ok: 0
+27
+rotating 73
+ok: 1
+0
+rotating 973
+ok: 9
+73
+rotating 27
+ok: 1
+0
+rotating -90
+ok: 1
+10
+rotating -491
+ok: -3
+19
+rotating -67
+ok: 1
+52
+rotating -92
+ok: 1
+60
+rotating -60
+ok: 0
+0
+rotating -26
+ok: 1
+74
+rotating 44
+ok: 1
+18
+rotating 27
+ok: 0
+45
+rotating 55
+ok: 1
+0
+rotating 54
+ok: 0
+54
+rotating 3
+ok: 0
+57
+rotating 9
+ok: 0
+66
+rotating -10
+ok: 0
+56
+rotating 44
+ok: 1
+0
+rotating 17
+ok: 0
+17
+rotating -17
+ok: 0
+0
+rotating -61
+ok: 1
+39
+rotating 61
+ok: 1
+0
+rotating 99
+ok: 0
+99
+rotating 23
+ok: 1
+22
+rotating -22
+ok: 0
+0
+rotating 6
+ok: 0
+6
+rotating 94
+ok: 1
+0
+rotating -51
+ok: 1
+49
+rotating -98
+ok: 1
+51
+rotating 52
+ok: 1
+3
+rotating -78
+ok: 1
+25
+rotating -25
+ok: 0
+0
+rotating -48
+ok: 1
+52
+rotating -14
+ok: 0
+38
+rotating -38
+ok: 0
+0
+rotating 12
+ok: 0
+12
+rotating -57
+ok: 1
+55
+rotating 45
+ok: 1
+0
+rotating -335
+ok: -2
+65
+rotating 52
+ok: 1
+17
+rotating -39
+ok: 1
+78
+rotating 506
+ok: 5
+84
+rotating -35
+ok: 0
+49
+rotating 51
+ok: 1
+0
+rotating -22
+ok: 1
+78
+rotating -597
+ok: -4
+81
+rotating -43
+ok: 0
+38
+rotating -61
+ok: 1
+77
+rotating -13
+ok: 0
+64
+rotating -3
+ok: 0
+61
+rotating 39
+ok: 1
+0
+rotating -39
+ok: 1
+61
+rotating 372
+ok: 4
+33
+rotating 67
+ok: 1
+0
+rotating 27
+ok: 0
+27
+rotating 81
+ok: 1
+8
+rotating -8
+ok: 0
+0
+rotating 678
+ok: 6
+78
+rotating 49
+ok: 1
+27
+rotating -20
+ok: 0
+7
+rotating 634
+ok: 6
+41
+rotating -741
+ok: -7
+0
+rotating -7
+ok: 1
+93
+rotating 7
+ok: 1
+0
+rotating -80
+ok: 1
+20
+rotating 657
+ok: 6
+77
+rotating 83
+ok: 1
+60
+rotating -52
+ok: 0
+8
+rotating 46
+ok: 0
+54
+rotating -41
+ok: 0
+13
+rotating 87
+ok: 1
+0
+rotating -89
+ok: 1
+11
+rotating -17
+ok: 1
+94
+rotating -828
+ok: -6
+66
+rotating 3
+ok: 0
+69
+rotating -39
+ok: 0
+30
+rotating 60
+ok: 0
+90
+rotating 10
+ok: 1
+0
+rotating 73
+ok: 0
+73
+rotating 27
+ok: 1
+0
+rotating 75
+ok: 0
+75
+rotating -75
+ok: 0
+0
+rotating -849
+ok: -7
+51
+rotating 749
+ok: 8
+0
+rotating -64
+ok: 1
+36
+rotating -68
+ok: 1
+68
+rotating 182
+ok: 2
+50
+rotating 50
+ok: 1
+0
+rotating -29
+ok: 1
+71
+rotating 29
+ok: 1
+0
+rotating -77
+ok: 1
+23
+rotating -647
+ok: -5
+76
+rotating -33
+ok: 0
+43
+rotating 57
+ok: 1
+0
+rotating 96
+ok: 0
+96
+rotating -68
+ok: 0
+28
+rotating -28
+ok: 0
+0
+rotating -36
+ok: 1
+64
+rotating 55
+ok: 1
+19
+rotating 774
+ok: 7
+93
+rotating -76
+ok: 0
+17
+rotating -1
+ok: 0
+16
+rotating 384
+ok: 4
+0
+rotating 45
+ok: 0
+45
+rotating -40
+ok: 0
+5
+rotating 64
+ok: 0
+69
+rotating -77
+ok: 1
+92
+rotating 8
+ok: 1
+0
+rotating 960
+ok: 9
+60
+rotating 46
+ok: 1
+6
+rotating -17
+ok: 1
+89
+rotating -89
+ok: 0
+0
+rotating 524
+ok: 5
+24
+rotating -49
+ok: 1
+75
+rotating 961
+ok: 10
+36
+rotating -38
+ok: 1
+98
+rotating -83
+ok: 0
+15
+rotating 85
+ok: 1
+0
+rotating -90
+ok: 1
+10
+rotating -110
+ok: -1
+0
+rotating 10
+ok: 0
+10
+rotating -10
+ok: 0
+0
+rotating -10
+ok: 1
+90
+rotating 10
+ok: 1
+0
+rotating 27
+ok: 0
+27
+rotating -27
+ok: 0
+0
+rotating -356
+ok: -2
+44
+rotating -44
+ok: 0
+0
+rotating 29
+ok: 0
+29
+rotating -61
+ok: 1
+68
+rotating 84
+ok: 1
+52
+rotating 48
+ok: 1
+0
+rotating 88
+ok: 0
+88
+rotating 30
+ok: 1
+18
+rotating 62
+ok: 0
+80
+rotating 720
+ok: 8
+0
+rotating -91
+ok: 1
+9
+rotating -161
+ok: 0
+48
+rotating 63
+ok: 1
+11
+rotating 89
+ok: 1
+0
+rotating -59
+ok: 1
+41
+rotating -66
+ok: 1
+75
+rotating -86
+ok: 1
+89
+rotating 67
+ok: 1
+56
+rotating -756
+ok: -7
+0
+rotating 1
+ok: 0
+1
+rotating -911
+ok: -8
+90
+rotating 416
+ok: 5
+6
+rotating 2
+ok: 0
+8
+rotating -45
+ok: 1
+63
+rotating -7
+ok: 0
+56
+rotating 43
+ok: 0
+99
+rotating 1
+ok: 1
+0
+rotating 793
+ok: 7
+93
+rotating 7
+ok: 1
+0
+rotating 42
+ok: 0
+42
+rotating -42
+ok: 0
+0
+rotating -63
+ok: 1
+37
+rotating 7
+ok: 0
+44
+rotating 71
+ok: 1
+15
+rotating 18
+ok: 0
+33
+rotating 75
+ok: 1
+8
+rotating 352
+ok: 3
+60
+rotating -91
+ok: 1
+69
+rotating 31
+ok: 1
+0
+rotating -647
+ok: -5
+53
+rotating 360
+ok: 4
+13
+rotating 248
+ok: 2
+61
+rotating -661
+ok: -6
+0
+rotating -26
+ok: 1
+74
+rotating 46
+ok: 1
+20
+rotating 30
+ok: 0
+50
+rotating -23
+ok: 0
+27
+rotating -94
+ok: 1
+33
+rotating -404
+ok: -2
+29
+rotating 55
+ok: 0
+84
+rotating 516
+ok: 6
+0
+rotating 40
+ok: 0
+40
+rotating -19
+ok: 0
+21
+rotating 38
+ok: 0
+59
+rotating 88
+ok: 1
+47
+rotating 46
+ok: 0
+93
+rotating 3
+ok: 0
+96
+rotating 63
+ok: 1
+59
+rotating 39
+ok: 0
+98
+rotating 27
+ok: 1
+25
+rotating 75
+ok: 1
+0
+rotating -61
+ok: 1
+39
+rotating 38
+ok: 0
+77
+rotating -9
+ok: 0
+68
+rotating 31
+ok: 0
+99
+rotating -8
+ok: 0
+91
+rotating -91
+ok: 0
+0
+rotating -55
+ok: 1
+45
+rotating 355
+ok: 4
+0
+rotating 84
+ok: 0
+84
+rotating -3
+ok: 0
+81
+rotating 89
+ok: 1
+70
+rotating -76
+ok: 1
+94
+rotating -38
+ok: 0
+56
+rotating -56
+ok: 0
+0
+rotating 21
+ok: 0
+21
+rotating 98
+ok: 1
+19
+rotating 65
+ok: 0
+84
+rotating -82
+ok: 0
+2
+rotating 7
+ok: 0
+9
+rotating -85
+ok: 1
+24
+rotating -76
+ok: 1
+48
+rotating 54
+ok: 1
+2
+rotating 98
+ok: 1
+0
+rotating 57
+ok: 0
+57
+rotating -53
+ok: 0
+4
+rotating 96
+ok: 1
+0
+rotating 17
+ok: 0
+17
+rotating 4
+ok: 0
+21
+rotating 5
+ok: 0
+26
+rotating 10
+ok: 0
+36
+rotating 64
+ok: 1
+0
+rotating 58
+ok: 0
+58
+rotating -22
+ok: 0
+36
+rotating -57
+ok: 1
+79
+rotating 21
+ok: 1
+0
+rotating 807
+ok: 8
+7
+rotating -136
+ok: 0
+71
+rotating -878
+ok: -7
+93
+rotating -18
+ok: 0
+75
+rotating 25
+ok: 1
+0
+rotating 383
+ok: 3
+83
+rotating -83
+ok: 0
+0
+rotating 50
+ok: 0
+50
+rotating 50
+ok: 1
+0
+rotating 80
+ok: 0
+80
+rotating -54
+ok: 0
+26
+rotating 474
+ok: 5
+0
+rotating -74
+ok: 1
+26
+rotating 74
+ok: 1
+0
+rotating 397
+ok: 3
+97
+rotating 82
+ok: 1
+79
+rotating 70
+ok: 1
+49
+rotating 53
+ok: 1
+2
+rotating 98
+ok: 1
+0
+rotating 56
+ok: 0
+56
+rotating -56
+ok: 0
+0
+rotating 69
+ok: 0
+69
+rotating -169
+ok: -1
+0
+rotating 50
+ok: 0
+50
+rotating 76
+ok: 1
+26
+rotating -95
+ok: 1
+31
+rotating -31
+ok: 0
+0
+rotating 91
+ok: 0
+91
+rotating 9
+ok: 1
+0
+rotating -93
+ok: 1
+7
+rotating -63
+ok: 1
+44
+rotating -7
+ok: 0
+37
+rotating 863
+ok: 9
+0
+rotating 18
+ok: 0
+18
+rotating -93
+ok: 1
+25
+rotating -97
+ok: 1
+28
+rotating 47
+ok: 0
+75
+rotating 89
+ok: 1
+64
+rotating -161
+ok: 1
+3
+rotating -72
+ok: 1
+31
+rotating 69
+ok: 1
+0
+rotating 83
+ok: 0
+83
+rotating 72
+ok: 1
+55
+rotating -88
+ok: 1
+67
+rotating 61
+ok: 1
+28
+rotating -86
+ok: 1
+42
+rotating -88
+ok: 1
+54
+rotating 327
+ok: 3
+81
+rotating 64
+ok: 1
+45
+rotating 55
+ok: 1
+0
+rotating -55
+ok: 1
+45
+rotating 55
+ok: 1
+0
+rotating -20
+ok: 1
+80
+rotating -80
+ok: 0
+0
+rotating -59
+ok: 1
+41
+rotating 21
+ok: 0
+62
+rotating -12
+ok: 0
+50
+rotating 56
+ok: 1
+6
+rotating -15
+ok: 1
+91
+rotating 34
+ok: 1
+25
+rotating -225
+ok: -2
+0
+rotating -1
+ok: 1
+99
+rotating -23
+ok: 0
+76
+rotating 45
+ok: 1
+21
+rotating -62
+ok: 1
+59
+rotating 68
+ok: 1
+27
+rotating -452
+ok: -3
+75
+rotating 56
+ok: 1
+31
+rotating -69
+ok: 1
+62
+rotating -45
+ok: 0
+17
+rotating -77
+ok: 1
+40
+rotating -80
+ok: 1
+60
+rotating -54
+ok: 0
+6
+rotating 12
+ok: 0
+18
+rotating 82
+ok: 1
+0
+rotating -1
+ok: 1
+99
+rotating -99
+ok: 0
+0
+rotating -78
+ok: 1
+22
+rotating -991
+ok: -8
+31
+rotating 69
+ok: 1
+0
+rotating 80
+ok: 0
+80
+rotating 521
+ok: 6
+1
+rotating 45
+ok: 0
+46
+rotating -2
+ok: 0
+44
+rotating 56
+ok: 1
+0
+rotating 75
+ok: 0
+75
+rotating -86
+ok: 1
+89
+rotating 68
+ok: 1
+57
+rotating -57
+ok: 0
+0
+rotating -521
+ok: -4
+79
+rotating -79
+ok: 0
+0
+rotating -60
+ok: 1
+40
+rotating -95
+ok: 1
+45
+rotating -51
+ok: 1
+94
+rotating -52
+ok: 0
+42
+rotating 58
+ok: 1
+0
+rotating 76
+ok: 0
+76
+rotating -76
+ok: 0
+0
+rotating -10
+ok: 1
+90
+rotating 583
+ok: 6
+73
+rotating 27
+ok: 1
+0
+rotating 12
+ok: 0
+12
+rotating -12
+ok: 0
+0
+rotating 573
+ok: 5
+73
+rotating 50
+ok: 1
+23
+rotating -99
+ok: 1
+24
+rotating 76
+ok: 1
+0
+rotating -92
+ok: 1
+8
+rotating 852
+ok: 8
+60
+rotating -31
+ok: 0
+29
+rotating 71
+ok: 1
+0
+rotating 53
+ok: 0
+53
+rotating 36
+ok: 0
+89
+rotating 232
+ok: 3
+21
+rotating 36
+ok: 0
+57
+rotating -38
+ok: 0
+19
+rotating 57
+ok: 0
+76
+rotating 78
+ok: 1
+54
+rotating -34
+ok: 0
+20
+rotating -18
+ok: 0
+2
+rotating -40
+ok: 1
+62
+rotating 38
+ok: 1
+0
+rotating -30
+ok: 1
+70
+rotating 68
+ok: 1
+38
+rotating -186
+ok: 0
+52
+rotating -3
+ok: 0
+49
+rotating -85
+ok: 1
+64
+rotating -822
+ok: -6
+42
+rotating -44
+ok: 1
+98
+rotating -99
+ok: 1
+99
+rotating 87
+ok: 1
+86
+rotating -90
+ok: 1
+96
+rotating -96
+ok: 0
+0
+rotating 72
+ok: 0
+72
+rotating -81
+ok: 1
+91
+rotating -25
+ok: 0
+66
+rotating -63
+ok: 0
+3
+rotating 85
+ok: 0
+88
+rotating 88
+ok: 1
+76
+rotating -76
+ok: 0
+0
+rotating 89
+ok: 0
+89
+rotating 22
+ok: 1
+11
+rotating 53
+ok: 0
+64
+rotating -264
+ok: -2
+0
+rotating 990
+ok: 9
+90
+rotating -46
+ok: 0
+44
+rotating 69
+ok: 1
+13
+rotating 87
+ok: 1
+0
+rotating 10
+ok: 0
+10
+rotating -10
+ok: 0
+0
+rotating -99
+ok: 1
+1
+rotating -1
+ok: 0
+0
+rotating 53
+ok: 0
+53
+rotating 747
+ok: 8
+0
+rotating 47
+ok: 0
+47
+rotating 327
+ok: 3
+74
+rotating 826
+ok: 9
+0
+rotating 82
+ok: 0
+82
+rotating 48
+ok: 1
+30
+rotating 70
+ok: 1
+0
+rotating -59
+ok: 1
+41
+rotating 82
+ok: 1
+23
+rotating -94
+ok: 1
+29
+rotating 971
+ok: 10
+0
+rotating 54
+ok: 0
+54
+rotating 46
+ok: 1
+0
+rotating 36
+ok: 0
+36
+rotating 964
+ok: 10
+0
+rotating 138
+ok: 1
+38
+rotating -38
+ok: 0
+0
+rotating -26
+ok: 1
+74
+rotating 33
+ok: 1
+7
+rotating -50
+ok: 1
+57
+rotating -57
+ok: 0
+0
+rotating -79
+ok: 1
+21
+rotating -60
+ok: 1
+61
+rotating -81
+ok: 1
+80
+rotating 87
+ok: 1
+67
+rotating -67
+ok: 0
+0
+rotating -77
+ok: 1
+23
+rotating -123
+ok: -1
+0
+rotating 95
+ok: 0
+95
+rotating -95
+ok: 0
+0
+rotating -95
+ok: 1
+5
+rotating 19
+ok: 0
+24
+rotating -95
+ok: 1
+29
+rotating -29
+ok: 0
+0
+rotating -76
+ok: 1
+24
+rotating 68
+ok: 0
+92
+rotating 87
+ok: 1
+79
+rotating -79
+ok: 0
+0
+rotating -577
+ok: -4
+23
+rotating 96
+ok: 1
+19
+rotating 84
+ok: 1
+3
+rotating -5
+ok: 1
+98
+rotating 618
+ok: 7
+16
+rotating -613
+ok: -4
+3
+rotating -6
+ok: 1
+97
+rotating -47
+ok: 0
+50
+rotating 50
+ok: 1
+0
+rotating -36
+ok: 1
+64
+rotating 341
+ok: 4
+5
+rotating 7
+ok: 0
+12
+rotating -12
+ok: 0
+0
+rotating -63
+ok: 1
+37
+rotating -138
+ok: 0
+99
+rotating 544
+ok: 6
+43
+rotating -43
+ok: 0
+0
+rotating -760
+ok: -6
+40
+rotating 67
+ok: 1
+7
+rotating 21
+ok: 0
+28
+rotating 72
+ok: 1
+0
+rotating 481
+ok: 4
+81
+rotating -55
+ok: 0
+26
+rotating 35
+ok: 0
+61
+rotating -358
+ok: -1
+3
+rotating -3
+ok: 0
+0
+rotating 7
+ok: 0
+7
+rotating -33
+ok: 1
+74
+rotating -334
+ok: -1
+40
+rotating 9
+ok: 0
+49
+rotating 3
+ok: 0
+52
+rotating -79
+ok: 1
+73
+rotating 27
+ok: 1
+0
+rotating 20
+ok: 0
+20
+rotating 11
+ok: 0
+31
+rotating -97
+ok: 1
+34
+rotating -65
+ok: 1
+69
+rotating 42
+ok: 1
+11
+rotating 20
+ok: 0
+31
+rotating 69
+ok: 1
+0
+rotating 17
+ok: 0
+17
+rotating -17
+ok: 0
+0
+rotating -39
+ok: 1
+61
+rotating -787
+ok: -6
+74
+rotating -17
+ok: 0
+57
+rotating 669
+ok: 7
+26
+rotating 105
+ok: 1
+31
+rotating 216
+ok: 2
+47
+rotating 91
+ok: 1
+38
+rotating -38
+ok: 0
+0
+rotating 31
+ok: 0
+31
+rotating 463
+ok: 4
+94
+rotating 43
+ok: 1
+37
+rotating 63
+ok: 1
+0
+rotating 932
+ok: 9
+32
+rotating -32
+ok: 0
+0
+rotating -366
+ok: -2
+34
+rotating -34
+ok: 0
+0
+rotating 312
+ok: 3
+12
+rotating 17
+ok: 0
+29
+rotating 62
+ok: 0
+91
+rotating 70
+ok: 1
+61
+rotating -48
+ok: 0
+13
+rotating -73
+ok: 1
+40
+rotating 26
+ok: 0
+66
+rotating -26
+ok: 0
+40
+rotating 60
+ok: 1
+0
+rotating -17
+ok: 1
+83
+rotating 849
+ok: 9
+32
+rotating 41
+ok: 0
+73
+rotating 475
+ok: 5
+48
+rotating 52
+ok: 1
+0
+rotating 31
+ok: 0
+31
+rotating -90
+ok: 1
+41
+rotating 79
+ok: 1
+20
+rotating -20
+ok: 0
+0
+rotating 241
+ok: 2
+41
+rotating -941
+ok: -9
+0
+rotating -227
+ok: -1
+73
+rotating 27
+ok: 1
+0
+rotating -83
+ok: 1
+17
+rotating 42
+ok: 0
+59
+rotating 32
+ok: 0
+91
+rotating 9
+ok: 1
+0
+rotating -56
+ok: 1
+44
+rotating -735
+ok: -5
+9
+rotating 12
+ok: 0
+21
+rotating 366
+ok: 3
+87
+rotating 15
+ok: 1
+2
+rotating 98
+ok: 1
+0
+rotating 3
+ok: 0
+3
+rotating 11
+ok: 0
+14
+rotating 6
+ok: 0
+20
+rotating -413
+ok: -2
+7
+rotating -21
+ok: 1
+86
+rotating 14
+ok: 1
+0
+rotating 54
+ok: 0
+54
+rotating 28
+ok: 0
+82
+rotating 74
+ok: 1
+56
+rotating 44
+ok: 1
+0
+rotating 37
+ok: 0
+37
+rotating -11
+ok: 0
+26
+rotating 74
+ok: 1
+0
+rotating 11
+ok: 0
+11
+rotating -65
+ok: 1
+46
+rotating -44
+ok: 0
+2
+rotating 86
+ok: 0
+88
+rotating 59
+ok: 1
+47
+rotating -105
+ok: 1
+42
+rotating 52
+ok: 0
+94
+rotating 40
+ok: 1
+34
+rotating -8
+ok: 0
+26
+rotating 74
+ok: 1
+0
+rotating 68
+ok: 0
+68
+rotating 532
+ok: 6
+0
+rotating 496
+ok: 4
+96
+rotating -53
+ok: 0
+43
+rotating 57
+ok: 1
+0
+rotating 83
+ok: 0
+83
+rotating -83
+ok: 0
+0
+rotating -6
+ok: 1
+94
+rotating 18
+ok: 1
+12
+rotating -12
+ok: 0
+0
+rotating 49
+ok: 0
+49
+rotating -88
+ok: 1
+61
+rotating 39
+ok: 1
+0
+rotating 387
+ok: 3
+87
+rotating -51
+ok: 0
+36
+rotating -36
+ok: 0
+0
+rotating -70
+ok: 1
+30
+rotating -30
+ok: 0
+0
+rotating -90
+ok: 1
+10
+rotating -24
+ok: 1
+86
+rotating 54
+ok: 1
+40
+rotating -161
+ok: 0
+79
+rotating 47
+ok: 1
+26
+rotating -27
+ok: 1
+99
+rotating 401
+ok: 5
+0
+rotating 1
+ok: 0
+1
+rotating -947
+ok: -8
+54
+rotating 46
+ok: 1
+0
+rotating -98
+ok: 1
+2
+rotating -802
+ok: -8
+0
+rotating -49
+ok: 1
+51
+rotating 41
+ok: 0
+92
+rotating -92
+ok: 0
+0
+rotating -84
+ok: 1
+16
+rotating 95
+ok: 1
+11
+rotating 289
+ok: 3
+0
+rotating 91
+ok: 0
+91
+rotating 89
+ok: 1
+80
+rotating -57
+ok: 0
+23
+rotating -61
+ok: 1
+62
+rotating -45
+ok: 0
+17
+rotating 44
+ok: 0
+61
+rotating -5
+ok: 0
+56
+rotating 69
+ok: 1
+25
+rotating 75
+ok: 1
+0
+rotating 358
+ok: 3
+58
+rotating 12
+ok: 0
+70
+rotating 30
+ok: 1
+0
+rotating 2
+ok: 0
+2
+rotating 13
+ok: 0
+15
+rotating 191
+ok: 2
+6
+rotating 56
+ok: 0
+62
+rotating 38
+ok: 1
+0
+rotating -44
+ok: 1
+56
+rotating -56
+ok: 0
+0
+rotating -49
+ok: 1
+51
+rotating -18
+ok: 0
+33
+rotating 67
+ok: 1
+0
+rotating -6
+ok: 1
+94
+rotating -45
+ok: 0
+49
+rotating -771
+ok: -6
+78
+rotating 29
+ok: 1
+7
+rotating -7
+ok: 0
+0
+rotating -25
+ok: 1
+75
+rotating -75
+ok: 0
+0
+rotating 356
+ok: 3
+56
+rotating 12
+ok: 0
+68
+rotating 32
+ok: 1
+0
+rotating 116
+ok: 1
+16
+rotating -67
+ok: 1
+49
+rotating 40
+ok: 0
+89
+rotating 48
+ok: 1
+37
+rotating 86
+ok: 1
+23
+rotating -99
+ok: 1
+24
+rotating 76
+ok: 1
+0
+rotating 98
+ok: 0
+98
+rotating -17
+ok: 0
+81
+rotating 19
+ok: 1
+0
+rotating 74
+ok: 0
+74
+rotating -54
+ok: 0
+20
+rotating 48
+ok: 0
+68
+rotating -43
+ok: 0
+25
+rotating -15
+ok: 0
+10
+rotating 21
+ok: 0
+31
+rotating -831
+ok: -8
+0
+rotating 17
+ok: 0
+17
+rotating -17
+ok: 0
+0
+rotating 79
+ok: 0
+79
+rotating -79
+ok: 0
+0
+rotating -548
+ok: -4
+52
+rotating -6
+ok: 0
+46
+rotating -9
+ok: 0
+37
+rotating -37
+ok: 0
+0
+rotating 665
+ok: 6
+65
+rotating -80
+ok: 1
+85
+rotating 46
+ok: 1
+31
+rotating 69
+ok: 1
+0
+rotating -86
+ok: 1
+14
+rotating -40
+ok: 1
+74
+rotating 65
+ok: 1
+39
+rotating 61
+ok: 1
+0
+rotating 58
+ok: 0
+58
+rotating 42
+ok: 1
+0
+rotating 61
+ok: 0
+61
+rotating -61
+ok: 0
+0
+rotating 469
+ok: 4
+69
+rotating -224
+ok: 0
+45
+rotating 655
+ok: 7
+0
+rotating 198
+ok: 1
+98
+rotating 87
+ok: 1
+85
+rotating 22
+ok: 1
+7
+rotating -92
+ok: 1
+15
+rotating -15
+ok: 0
+0
+rotating 79
+ok: 0
+79
+rotating 2
+ok: 0
+81
+rotating -60
+ok: 0
+21
+rotating 615
+ok: 6
+36
+rotating 64
+ok: 1
+0
+rotating -93
+ok: 1
+7
+rotating -7
+ok: 0
+0
+rotating 4
+ok: 0
+4
+rotating 33
+ok: 0
+37
+rotating 739
+ok: 7
+76
+rotating -876
+ok: -8
+0
+rotating -37
+ok: 1
+63
+rotating -40
+ok: 0
+23
+rotating -73
+ok: 1
+50
+rotating -50
+ok: 0
+0
+rotating -920
+ok: -8
+80
+rotating -61
+ok: 0
+19
+rotating 81
+ok: 1
+0
+rotating -5
+ok: 1
+95
+rotating -95
+ok: 0
+0
+rotating -3
+ok: 1
+97
+rotating 72
+ok: 1
+69
+rotating 78
+ok: 1
+47
+rotating -7
+ok: 0
+40
+rotating 960
+ok: 10
+0
+rotating 40
+ok: 0
+40
+rotating 999
+ok: 10
+39
+rotating -272
+ok: -1
+67
+rotating -72
+ok: 1
+95
+rotating -346
+ok: -1
+49
+rotating -39
+ok: 0
+10
+rotating -10
+ok: 0
+0
+rotating 65
+ok: 0
+65
+rotating -765
+ok: -7
+0
+rotating -54
+ok: 1
+46
+rotating 226
+ok: 2
+72
+rotating 6
+ok: 0
+78
+rotating -78
+ok: 0
+0
+rotating -60
+ok: 1
+40
+rotating 28
+ok: 0
+68
+rotating 56
+ok: 1
+24
+rotating 376
+ok: 4
+0
+rotating 49
+ok: 0
+49
+rotating -16
+ok: 0
+33
+rotating 67
+ok: 1
+0
+rotating -83
+ok: 1
+17
+rotating -17
+ok: 0
+0
+rotating 7
+ok: 0
+7
+rotating 893
+ok: 9
+0
+rotating -24
+ok: 1
+76
+rotating 24
+ok: 1
+0
+rotating 138
+ok: 1
+38
+rotating -47
+ok: 1
+91
+rotating -239
+ok: 0
+52
+rotating 347
+ok: 3
+99
+rotating -99
+ok: 0
+0
+rotating 51
+ok: 0
+51
+rotating -51
+ok: 0
+0
+rotating -925
+ok: -8
+75
+rotating -80
+ok: 1
+95
+rotating -95
+ok: 0
+0
+rotating -60
+ok: 1
+40
+rotating 60
+ok: 1
+0
+rotating -65
+ok: 1
+35
+rotating 72
+ok: 1
+7
+rotating 14
+ok: 0
+21
+rotating -63
+ok: 1
+58
+rotating 79
+ok: 1
+37
+rotating 63
+ok: 1
+0
+rotating 52
+ok: 0
+52
+rotating 48
+ok: 1
+0
+rotating -168
+ok: 0
+32
+rotating 59
+ok: 0
+91
+rotating -33
+ok: 0
+58
+rotating 27
+ok: 0
+85
+rotating -85
+ok: 0
+0
+rotating 463
+ok: 4
+63
+rotating -16
+ok: 0
+47
+rotating 35
+ok: 0
+82
+rotating 133
+ok: 2
+15
+rotating -34
+ok: 1
+81
+rotating -838
+ok: -6
+43
+rotating -43
+ok: 0
+0
+rotating -27
+ok: 1
+73
+rotating 27
+ok: 1
+0
+rotating 3
+ok: 0
+3
+rotating -82
+ok: 1
+21
+rotating -35
+ok: 1
+86
+rotating 62
+ok: 1
+48
+rotating -9
+ok: 0
+39
+rotating 86
+ok: 1
+25
+rotating -25
+ok: 0
+0
+rotating -766
+ok: -6
+34
+rotating 66
+ok: 1
+0
+rotating -775
+ok: -6
+25
+rotating 35
+ok: 0
+60
+rotating -409
+ok: -2
+51
+rotating -69
+ok: 1
+82
+rotating 78
+ok: 1
+60
+rotating 43
+ok: 1
+3
+rotating -94
+ok: 1
+9
+rotating -9
+ok: 0
+0
+rotating -33
+ok: 1
+67
+rotating 39
+ok: 1
+6
+rotating 805
+ok: 8
+11
+rotating -11
+ok: 0
+0
+rotating 98
+ok: 0
+98
+rotating 2
+ok: 1
+0
+rotating -65
+ok: 1
+35
+rotating -835
+ok: -8
+0
+rotating 443
+ok: 4
+43
+rotating 67
+ok: 1
+10
+rotating 90
+ok: 1
+0
+rotating -42
+ok: 1
+58
+rotating -58
+ok: 0
+0
+rotating 282
+ok: 2
+82
+rotating -763
+ok: -5
+19
+rotating 81
+ok: 1
+0
+rotating -82
+ok: 1
+18
+rotating 65
+ok: 0
+83
+rotating 41
+ok: 1
+24
+rotating 508
+ok: 5
+32
+rotating 368
+ok: 4
+0
+rotating 55
+ok: 0
+55
+rotating 45
+ok: 1
+0
+rotating 505
+ok: 5
+5
+rotating 987
+ok: 9
+92
+rotating -37
+ok: 0
+55
+rotating 376
+ok: 4
+31
+rotating 61
+ok: 0
+92
+rotating -92
+ok: 0
+0
+rotating -129
+ok: 0
+71
+rotating 5
+ok: 0
+76
+rotating -22
+ok: 0
+54
+rotating 46
+ok: 1
+0
+rotating 71
+ok: 0
+71
+rotating -71
+ok: 0
+0
+rotating -46
+ok: 1
+54
+rotating 97
+ok: 1
+51
+rotating 94
+ok: 1
+45
+rotating -71
+ok: 1
+74
+rotating 12
+ok: 0
+86
+rotating 84
+ok: 1
+70
+rotating 19
+ok: 0
+89
+rotating -89
+ok: 0
+0
+rotating -238
+ok: -1
+62
+rotating 38
+ok: 1
+0
+rotating -88
+ok: 1
+12
+rotating 61
+ok: 0
+73
+rotating -23
+ok: 0
+50
+rotating -45
+ok: 0
+5
+rotating -83
+ok: 1
+22
+rotating 76
+ok: 0
+98
+rotating -98
+ok: 0
+0
+rotating 19
+ok: 0
+19
+rotating -19
+ok: 0
+0
+rotating 54
+ok: 0
+54
+rotating -59
+ok: 1
+95
+rotating -95
+ok: 0
+0
+rotating -79
+ok: 1
+21
+rotating -21
+ok: 0
+0
+rotating 88
+ok: 0
+88
+rotating -88
+ok: 0
+0
+rotating -44
+ok: 1
+56
+rotating 18
+ok: 0
+74
+rotating -1
+ok: 0
+73
+rotating 27
+ok: 1
+0
+rotating 934
+ok: 9
+34
+rotating -24
+ok: 0
+10
+rotating 25
+ok: 0
+35
+rotating -35
+ok: 0
+0
+rotating -35
+ok: 1
+65
+rotating -65
+ok: 0
+0
+rotating -870
+ok: -7
+30
+rotating -80
+ok: 1
+50
+rotating -750
+ok: -7
+0
+rotating 15
+ok: 0
+15
+rotating -45
+ok: 1
+70
+rotating 886
+ok: 9
+56
+rotating -394
+ok: -2
+62
+rotating -362
+ok: -3
+0
+rotating 73
+ok: 0
+73
+rotating -47
+ok: 0
+26
+rotating 53
+ok: 0
+79
+rotating -83
+ok: 1
+96
+rotating -3
+ok: 0
+93
+rotating 7
+ok: 1
+0
+rotating 46
+ok: 0
+46
+rotating 87
+ok: 1
+33
+rotating 67
+ok: 1
+0
+rotating 47
+ok: 0
+47
+rotating -70
+ok: 1
+77
+rotating -52
+ok: 0
+25
+rotating 85
+ok: 1
+10
+rotating 51
+ok: 0
+61
+rotating -92
+ok: 1
+69
+rotating 5
+ok: 0
+74
+rotating 52
+ok: 1
+26
+rotating -826
+ok: -8
+0
+rotating -27
+ok: 1
+73
+rotating -73
+ok: 0
+0
+rotating -3
+ok: 1
+97
+rotating 883
+ok: 9
+80
+rotating -553
+ok: -3
+27
+rotating -27
+ok: 0
+0
+rotating 72
+ok: 0
+72
+rotating -59
+ok: 0
+13
+rotating 73
+ok: 0
+86
+rotating -28
+ok: 0
+58
+rotating -115
+ok: 1
+43
+rotating 86
+ok: 1
+29
+rotating 617
+ok: 6
+46
+rotating 63
+ok: 1
+9
+rotating -909
+ok: -9
+0
+rotating -51
+ok: 1
+49
+rotating 97
+ok: 1
+46
+rotating -46
+ok: 0
+0
+rotating 26
+ok: 0
+26
+rotating -34
+ok: 1
+92
+rotating 979
+ok: 10
+71
+rotating 57
+ok: 1
+28
+rotating 26
+ok: 0
+54
+rotating -94
+ok: 1
+60
+rotating -60
+ok: 0
+0
+rotating -87
+ok: 1
+13
+rotating 92
+ok: 1
+5
+rotating 95
+ok: 1
+0
+rotating 87
+ok: 0
+87
+rotating 713
+ok: 8
+0
+rotating -90
+ok: 1
+10
+rotating 64
+ok: 0
+74
+rotating -74
+ok: 0
+0
+rotating -88
+ok: 1
+12
+rotating -93
+ok: 1
+19
+rotating -21
+ok: 1
+98
+rotating 85
+ok: 1
+83
+rotating -40
+ok: 0
+43
+rotating 29
+ok: 0
+72
+rotating -68
+ok: 0
+4
+rotating -62
+ok: 1
+42
+rotating -9
+ok: 0
+33
+rotating -87
+ok: 1
+46
+rotating 54
+ok: 1
+0
+rotating -31
+ok: 1
+69
+rotating 1
+ok: 0
+70
+rotating 226
+ok: 2
+96
+rotating -89
+ok: 0
+7
+rotating 5
+ok: 0
+12
+rotating 88
+ok: 1
+0
+rotating 76
+ok: 0
+76
+rotating 21
+ok: 0
+97
+rotating -54
+ok: 0
+43
+rotating 99
+ok: 1
+42
+rotating 58
+ok: 1
+0
+rotating -23
+ok: 1
+77
+rotating 23
+ok: 1
+0
+rotating 46
+ok: 0
+46
+rotating -46
+ok: 0
+0
+rotating 94
+ok: 0
+94
+rotating 57
+ok: 1
+51
+rotating 39
+ok: 0
+90
+rotating -90
+ok: 0
+0
+rotating 68
+ok: 0
+68
+rotating 32
+ok: 1
+0
+rotating 696
+ok: 6
+96
+rotating 22
+ok: 1
+18
+rotating 99
+ok: 1
+17
+rotating 89
+ok: 1
+6
+rotating -506
+ok: -5
+0
+rotating -31
+ok: 1
+69
+rotating -108
+ok: 1
+61
+rotating 157
+ok: 2
+18
+rotating 982
+ok: 10
+0
+rotating 26
+ok: 0
+26
+rotating 45
+ok: 0
+71
+rotating -57
+ok: 0
+14
+rotating 50
+ok: 0
+64
+rotating -23
+ok: 0
+41
+rotating 72
+ok: 1
+13
+rotating -13
+ok: 0
+0
+rotating -45
+ok: 1
+55
+rotating 945
+ok: 10
+0
+rotating 463
+ok: 4
+63
+rotating -963
+ok: -9
+0
+rotating 58
+ok: 0
+58
+rotating 42
+ok: 1
+0
+rotating -94
+ok: 1
+6
+rotating 61
+ok: 0
+67
+rotating 63
+ok: 1
+30
+rotating 16
+ok: 0
+46
+rotating 454
+ok: 5
+0
+rotating 94
+ok: 0
+94
+rotating 6
+ok: 1
+0
+rotating 865
+ok: 8
+65
+rotating -743
+ok: -5
+22
+rotating 78
+ok: 1
+0
+rotating 19
+ok: 0
+19
+rotating 858
+ok: 8
+77
+rotating -390
+ok: -2
+87
+rotating 86
+ok: 1
+73
+rotating 92
+ok: 1
+65
+rotating -65
+ok: 0
+0
+rotating 90
+ok: 0
+90
+rotating -51
+ok: 0
+39
+rotating 614
+ok: 6
+53
+rotating 29
+ok: 0
+82
+rotating 18
+ok: 1
+0
+rotating -76
+ok: 1
+24
+rotating 176
+ok: 2
+0
+rotating -12
+ok: 1
+88
+rotating -19
+ok: 0
+69
+rotating 84
+ok: 1
+53
+rotating 67
+ok: 1
+20
+rotating 86
+ok: 1
+6
+rotating 84
+ok: 0
+90
+rotating 10
+ok: 1
+0
+rotating -20
+ok: 1
+80
+rotating -56
+ok: 0
+24
+rotating -6
+ok: 0
+18
+rotating 782
+ok: 8
+0
+rotating -780
+ok: -6
+20
+rotating 53
+ok: 0
+73
+rotating -73
+ok: 0
+0
+rotating -584
+ok: -4
+16
+rotating -16
+ok: 0
+0
+rotating 74
+ok: 0
+74
+rotating 26
+ok: 1
+0
+rotating 21
+ok: 0
+21
+rotating 54
+ok: 0
+75
+rotating 625
+ok: 7
+0
+rotating 64
+ok: 0
+64
+rotating 36
+ok: 1
+0
+rotating 52
+ok: 0
+52
+rotating -52
+ok: 0
+0
+rotating 96
+ok: 0
+96
+rotating -894
+ok: -6
+2
+rotating -87
+ok: 1
+15
+rotating -53
+ok: 1
+62
+rotating -20
+ok: 0
+42
+rotating -91
+ok: 1
+51
+rotating -974
+ok: -8
+77
+rotating -2
+ok: 0
+75
+rotating 66
+ok: 1
+41
+rotating -81
+ok: 1
+60
+rotating -82
+ok: 1
+78
+rotating -78
+ok: 0
+0
+rotating 31
+ok: 0
+31
+rotating 69
+ok: 1
+0
+rotating -39
+ok: 1
+61
+rotating -45
+ok: 0
+16
+rotating -33
+ok: 1
+83
+rotating -333
+ok: -1
+50
+rotating 83
+ok: 1
+33
+rotating 67
+ok: 1
+0
+rotating -87
+ok: 1
+13
+rotating -895
+ok: -7
+18
+rotating 82
+ok: 1
+0
+rotating -11
+ok: 1
+89
+rotating 11
+ok: 1
+0
+rotating -78
+ok: 1
+22
+rotating -761
+ok: -6
+61
+rotating -61
+ok: 0
+0
+rotating 10
+ok: 0
+10
+rotating -10
+ok: 0
+0
+rotating 259
+ok: 2
+59
+rotating -18
+ok: 0
+41
+rotating -126
+ok: 1
+15
+rotating -15
+ok: 0
+0
+rotating 331
+ok: 3
+31
+rotating -876
+ok: -7
+55
+rotating -27
+ok: 0
+28
+rotating -72
+ok: 1
+56
+rotating -27
+ok: 0
+29
+rotating 7
+ok: 0
+36
+rotating 32
+ok: 0
+68
+rotating 960
+ok: 10
+28
+rotating 72
+ok: 1
+0
+rotating -7
+ok: 1
+93
+rotating 7
+ok: 1
+0
+rotating -518
+ok: -4
+82
+rotating -21
+ok: 0
+61
+rotating 39
+ok: 1
+0
+rotating -1
+ok: 1
+99
+rotating 1
+ok: 1
+0
+rotating -52
+ok: 1
+48
+rotating 23
+ok: 0
+71
+rotating -71
+ok: 0
+0
+rotating -62
+ok: 1
+38
+rotating -252
+ok: -1
+86
+rotating -686
+ok: -6
+0
+rotating 605
+ok: 6
+5
+rotating 31
+ok: 0
+36
+rotating -36
+ok: 0
+0
+rotating -97
+ok: 1
+3
+rotating 13
+ok: 0
+16
+rotating 68
+ok: 0
+84
+rotating 16
+ok: 1
+0
+rotating 91
+ok: 0
+91
+rotating 339
+ok: 4
+30
+rotating 95
+ok: 1
+25
+rotating 75
+ok: 1
+0
+rotating 96
+ok: 0
+96
+rotating 7
+ok: 1
+3
+rotating -603
+ok: -6
+0
+rotating 71
+ok: 0
+71
+rotating 29
+ok: 1
+0
+rotating 81
+ok: 0
+81
+rotating -8
+ok: 0
+73
+rotating 94
+ok: 1
+67
+rotating 2
+ok: 0
+69
+rotating -99
+ok: 1
+70
+rotating 97
+ok: 1
+67
+rotating 24
+ok: 0
+91
+rotating -91
+ok: 0
+0
+rotating 84
+ok: 0
+84
+rotating -14
+ok: 0
+70
+rotating -86
+ok: 1
+84
+rotating -84
+ok: 0
+0
+rotating 219
+ok: 2
+19
+rotating -1
+ok: 0
+18
+rotating 430
+ok: 4
+48
+rotating 16
+ok: 0
+64
+rotating -464
+ok: -4
+0
+rotating 37
+ok: 0
+37
+rotating 26
+ok: 0
+63
+rotating 80
+ok: 1
+43
+rotating -243
+ok: -2
+0
+rotating 744
+ok: 7
+44
+rotating 61
+ok: 1
+5
+rotating 36
+ok: 0
+41
+rotating -26
+ok: 0
+15
+rotating 85
+ok: 1
+0
+rotating -44
+ok: 1
+56
+rotating -56
+ok: 0
+0
+rotating 75
+ok: 0
+75
+rotating 19
+ok: 0
+94
+rotating -588
+ok: -3
+6
+rotating 94
+ok: 1
+0
+rotating -31
+ok: 1
+69
+rotating -69
+ok: 0
+0
+rotating -70
+ok: 1
+30
+rotating -45
+ok: 1
+85
+rotating 15
+ok: 1
+0
+rotating 50
+ok: 0
+50
+rotating -50
+ok: 0
+0
+rotating -21
+ok: 1
+79
+rotating -15
+ok: 0
+64
+rotating 536
+ok: 6
+0
+rotating 765
+ok: 7
+65
+rotating -80
+ok: 1
+85
+rotating -599
+ok: -4
+86
+rotating 92
+ok: 1
+78
+rotating 82
+ok: 1
+60
+rotating 26
+ok: 0
+86
+rotating -45
+ok: 0
+41
+rotating -85
+ok: 1
+56
+rotating -56
+ok: 0
+0
+rotating 192
+ok: 1
+92
+rotating -92
+ok: 0
+0
+rotating -20
+ok: 1
+80
+rotating 36
+ok: 1
+16
+rotating 63
+ok: 0
+79
+rotating -79
+ok: 0
+0
+rotating -985
+ok: -8
+15
+rotating -515
+ok: -5
+0
+rotating -49
+ok: 1
+51
+rotating 49
+ok: 1
+0
+rotating 1
+ok: 0
+1
+rotating -204
+ok: -1
+97
+rotating -414
+ok: -2
+83
+rotating -74
+ok: 0
+9
+rotating -29
+ok: 1
+80
+rotating -80
+ok: 0
+0
+rotating 76
+ok: 0
+76
+rotating 84
+ok: 1
+60
+rotating -60
+ok: 0
+0
+rotating 492
+ok: 4
+92
+rotating -73
+ok: 0
+19
+rotating 19
+ok: 0
+38
+rotating 421
+ok: 4
+59
+rotating -25
+ok: 0
+34
+rotating 66
+ok: 1
+0
+rotating -90
+ok: 1
+10
+rotating 81
+ok: 0
+91
+rotating 184
+ok: 2
+75
+rotating 25
+ok: 1
+0
+rotating -21
+ok: 1
+79
+rotating 21
+ok: 1
+0
+rotating -98
+ok: 1
+2
+rotating -38
+ok: 1
+64
+rotating -64
+ok: 0
+0
+rotating -22
+ok: 1
+78
+rotating 76
+ok: 1
+54
+rotating -36
+ok: 0
+18
+rotating -9
+ok: 0
+9
+rotating 91
+ok: 1
+0
+rotating 16
+ok: 0
+16
+rotating -47
+ok: 1
+69
+rotating 31
+ok: 1
+0
+rotating -25
+ok: 1
+75
+rotating -75
+ok: 0
+0
+rotating 15
+ok: 0
+15
+rotating 478
+ok: 4
+93
+rotating -93
+ok: 0
+0
+rotating 38
+ok: 0
+38
+rotating -12
+ok: 0
+26
+rotating -379
+ok: -2
+47
+rotating -69
+ok: 1
+78
+rotating 22
+ok: 1
+0
+rotating 473
+ok: 4
+73
+rotating 24
+ok: 0
+97
+rotating -432
+ok: -2
+65
+rotating -65
+ok: 0
+0
+rotating 60
+ok: 0
+60
+rotating -860
+ok: -8
+0
+rotating -55
+ok: 1
+45
+rotating -116
+ok: 1
+29
+rotating 78
+ok: 1
+7
+rotating 31
+ok: 0
+38
+rotating -2
+ok: 0
+36
+rotating -390
+ok: -2
+46
+rotating -46
+ok: 0
+0
+rotating -9
+ok: 1
+91
+rotating 52
+ok: 1
+43
+rotating -352
+ok: -2
+91
+rotating 2
+ok: 0
+93
+rotating 72
+ok: 1
+65
+rotating 22
+ok: 0
+87
+rotating 197
+ok: 2
+84
+rotating 85
+ok: 1
+69
+rotating 83
+ok: 1
+52
+rotating 830
+ok: 8
+82
+rotating -26
+ok: 0
+56
+rotating -71
+ok: 1
+85
+rotating 15
+ok: 1
+0
+rotating 92
+ok: 0
+92
+rotating 8
+ok: 1
+0
+rotating 151
+ok: 1
+51
+rotating -46
+ok: 0
+5
+rotating -64
+ok: 1
+41
+rotating -77
+ok: 1
+64
+rotating -3
+ok: 0
+61
+rotating 39
+ok: 1
+0
+rotating 710
+ok: 7
+10
+rotating 66
+ok: 0
+76
+rotating 31
+ok: 1
+7
+rotating -12
+ok: 1
+95
+rotating -995
+ok: -9
+0
+rotating -716
+ok: -6
+84
+rotating 16
+ok: 1
+0
+rotating -889
+ok: -7
+11
+rotating -81
+ok: 1
+30
+rotating -32
+ok: 1
+98
+rotating -19
+ok: 0
+79
+rotating -83
+ok: 1
+96
+rotating 93
+ok: 1
+89
+rotating -233
+ok: 0
+56
+rotating -56
+ok: 0
+0
+rotating 802
+ok: 8
+2
+rotating 98
+ok: 1
+0
+rotating 719
+ok: 7
+19
+rotating -426
+ok: -3
+93
+rotating -86
+ok: 0
+7
+rotating -54
+ok: 1
+53
+rotating 147
+ok: 2
+0
+rotating -15
+ok: 1
+85
+rotating 65
+ok: 1
+50
+rotating 50
+ok: 1
+0
+rotating -419
+ok: -3
+81
+rotating 29
+ok: 1
+10
+rotating -92
+ok: 1
+18
+rotating -13
+ok: 0
+5
+rotating -36
+ok: 1
+69
+rotating 331
+ok: 4
+0
+rotating 565
+ok: 5
+65
+rotating -65
+ok: 0
+0
+rotating -79
+ok: 1
+21
+rotating 18
+ok: 0
+39
+rotating -194
+ok: 0
+45
+rotating -4
+ok: 0
+41
+rotating -65
+ok: 1
+76
+rotating -742
+ok: -5
+34
+rotating 966
+ok: 10
+0
+rotating -23
+ok: 1
+77
+rotating -6
+ok: 0
+71
+rotating -71
+ok: 0
+0
+rotating -70
+ok: 1
+30
+rotating 25
+ok: 0
+55
+rotating 7
+ok: 0
+62
+rotating 20
+ok: 0
+82
+rotating -6
+ok: 0
+76
+rotating -76
+ok: 0
+0
+rotating 26
+ok: 0
+26
+rotating -98
+ok: 1
+28
+rotating 78
+ok: 1
+6
+rotating 94
+ok: 1
+0
+rotating -3
+ok: 1
+97
+rotating -197
+ok: -1
+0
+rotating -698
+ok: -5
+2
+rotating 98
+ok: 1
+0
+rotating -2
+ok: 1
+98
+rotating 502
+ok: 6
+0
+rotating 79
+ok: 0
+79
+rotating 21
+ok: 1
+0
+rotating 620
+ok: 6
+20
+rotating 637
+ok: 6
+57
+rotating 46
+ok: 1
+3
+rotating 97
+ok: 1
+0
+rotating -7
+ok: 1
+93
+rotating -895
+ok: -7
+98
+rotating -598
+ok: -5
+0
+rotating -82
+ok: 1
+18
+rotating -18
+ok: 0
+0
+rotating 82
+ok: 0
+82
+rotating -77
+ok: 0
+5
+rotating 95
+ok: 1
+0
+rotating 40
+ok: 0
+40
+rotating 57
+ok: 0
+97
+rotating -97
+ok: 0
+0
+rotating 43
+ok: 0
+43
+rotating -43
+ok: 0
+0
+rotating -192
+ok: 0
+8
+rotating 92
+ok: 1
+0
+rotating 26
+ok: 0
+26
+rotating -39
+ok: 1
+87
+rotating -87
+ok: 0
+0
+rotating -25
+ok: 1
+75
+rotating 91
+ok: 1
+66
+rotating 78
+ok: 1
+44
+rotating 56
+ok: 1
+0
+rotating 32
+ok: 0
+32
+rotating -270
+ok: -1
+62
+rotating -26
+ok: 0
+36
+rotating 37
+ok: 0
+73
+rotating -5
+ok: 0
+68
+rotating -68
+ok: 0
+0
+rotating -38
+ok: 1
+62
+rotating -62
+ok: 0
+0
+rotating 53
+ok: 0
+53
+rotating 47
+ok: 1
+0
+rotating 88
+ok: 0
+88
+rotating -465
+ok: -2
+23
+rotating -23
+ok: 0
+0
+rotating -72
+ok: 1
+28
+rotating 47
+ok: 0
+75
+rotating -75
+ok: 0
+0
+rotating -795
+ok: -6
+5
+rotating -59
+ok: 1
+46
+rotating 175
+ok: 2
+21
+rotating -21
+ok: 0
+0
+rotating -89
+ok: 1
+11
+rotating -11
+ok: 0
+0
+rotating -7
+ok: 1
+93
+rotating -493
+ok: -4
+0
+rotating -62
+ok: 1
+38
+rotating -38
+ok: 0
+0
+rotating -9
+ok: 1
+91
+rotating 5
+ok: 0
+96
+rotating 4
+ok: 1
+0
+rotating -99
+ok: 1
+1
+rotating 21
+ok: 0
+22
+rotating 17
+ok: 0
+39
+rotating -51
+ok: 1
+88
+rotating -88
+ok: 0
+0
+rotating -50
+ok: 1
+50
+rotating 63
+ok: 1
+13
+rotating 87
+ok: 1
+0
+rotating 21
+ok: 0
+21
+rotating -72
+ok: 1
+49
+rotating -49
+ok: 0
+0
+rotating 598
+ok: 5
+98
+rotating -98
+ok: 0
+0
+rotating 48
+ok: 0
+48
+rotating 852
+ok: 9
+0
+rotating -14
+ok: 1
+86
+rotating -77
+ok: 0
+9
+rotating 91
+ok: 1
+0
+rotating 53
+ok: 0
+53
+rotating -53
+ok: 0
+0
+rotating 85
+ok: 0
+85
+rotating 87
+ok: 1
+72
+rotating -66
+ok: 0
+6
+rotating 66
+ok: 0
+72
+rotating 79
+ok: 1
+51
+rotating -174
+ok: 0
+77
+rotating 57
+ok: 1
+34
+rotating 76
+ok: 1
+10
+rotating 73
+ok: 0
+83
+rotating 75
+ok: 1
+58
+rotating 42
+ok: 1
+0
+rotating -85
+ok: 1
+15
+rotating 53
+ok: 0
+68
+rotating 32
+ok: 1
+0
+rotating 7
+ok: 0
+7
+rotating -5
+ok: 0
+2
+rotating 99
+ok: 1
+1
+rotating -60
+ok: 1
+41
+rotating 35
+ok: 0
+76
+rotating 64
+ok: 1
+40
+rotating -30
+ok: 0
+10
+rotating 93
+ok: 1
+3
+rotating 55
+ok: 0
+58
+rotating -94
+ok: 1
+64
+rotating -54
+ok: 0
+10
+rotating 384
+ok: 3
+94
+rotating 6
+ok: 1
+0
+rotating -41
+ok: 1
+59
+rotating -59
+ok: 0
+0
+rotating -87
+ok: 1
+13
+rotating -94
+ok: 1
+19
+rotating 825
+ok: 8
+44
+rotating -42
+ok: 0
+2
+rotating -79
+ok: 1
+23
+rotating 83
+ok: 1
+6
+rotating 94
+ok: 1
+0
+rotating -53
+ok: 1
+47
+rotating 8
+ok: 0
+55
+rotating 45
+ok: 1
+0
+rotating 88
+ok: 0
+88
+rotating 63
+ok: 1
+51
+rotating 92
+ok: 1
+43
+rotating 57
+ok: 1
+0
+rotating 25
+ok: 0
+25
+rotating 27
+ok: 0
+52
+rotating -30
+ok: 0
+22
+rotating 71
+ok: 0
+93
+rotating -9
+ok: 0
+84
+rotating -84
+ok: 0
+0
+rotating 61
+ok: 0
+61
+rotating 39
+ok: 1
+0
+rotating -36
+ok: 1
+64
+rotating -72
+ok: 1
+92
+rotating -47
+ok: 0
+45
+rotating -75
+ok: 1
+70
+rotating 75
+ok: 1
+45
+rotating 16
+ok: 0
+61
+rotating -61
+ok: 0
+0
+rotating 32
+ok: 0
+32
+rotating -90
+ok: 1
+42
+rotating 91
+ok: 1
+33
+rotating 45
+ok: 0
+78
+rotating -78
+ok: 0
+0
+rotating 32
+ok: 0
+32
+rotating 43
+ok: 0
+75
+rotating 25
+ok: 1
+0
+rotating -54
+ok: 1
+46
+rotating -407
+ok: -2
+39
+rotating -12
+ok: 0
+27
+rotating 85
+ok: 1
+12
+rotating 45
+ok: 0
+57
+rotating 43
+ok: 1
+0
+rotating 69
+ok: 0
+69
+rotating -13
+ok: 0
+56
+rotating 294
+ok: 3
+50
+rotating 150
+ok: 2
+0
+rotating 64
+ok: 0
+64
+rotating -83
+ok: 1
+81
+rotating -730
+ok: -5
+51
+rotating 926
+ok: 9
+77
+rotating 68
+ok: 1
+45
+rotating 369
+ok: 4
+14
+rotating 44
+ok: 0
+58
+rotating -958
+ok: -9
+0
+rotating -14
+ok: 1
+86
+rotating 54
+ok: 1
+40
+rotating 38
+ok: 0
+78
+rotating -10
+ok: 0
+68
+rotating 62
+ok: 1
+30
+rotating 3
+ok: 0
+33
+rotating 67
+ok: 1
+0
+rotating -3
+ok: 1
+97
+rotating 403
+ok: 5
+0
+rotating -31
+ok: 1
+69
+rotating 39
+ok: 1
+8
+rotating -21
+ok: 1
+87
+rotating 13
+ok: 1
+0
+rotating -62
+ok: 1
+38
+rotating -38
+ok: 0
+0
+rotating 17
+ok: 0
+17
+rotating -90
+ok: 1
+27
+rotating 5
+ok: 0
+32
+rotating 68
+ok: 1
+0
+rotating -861
+ok: -7
+39
+rotating 513
+ok: 5
+52
+rotating 44
+ok: 0
+96
+rotating -57
+ok: 0
+39
+rotating 61
+ok: 1
+0
+rotating 3
+ok: 0
+3
+rotating 50
+ok: 0
+53
+rotating 95
+ok: 1
+48
+rotating 24
+ok: 0
+72
+rotating 28
+ok: 1
+0
+rotating 49
+ok: 0
+49
+rotating -12
+ok: 0
+37
+rotating 128
+ok: 1
+65
+rotating -34
+ok: 0
+31
+rotating -431
+ok: -4
+0
+rotating 345
+ok: 3
+45
+rotating 42
+ok: 0
+87
+rotating 13
+ok: 1
+0
+rotating -891
+ok: -7
+9
+rotating 62
+ok: 0
+71
+rotating 52
+ok: 1
+23
+rotating -115
+ok: 1
+8
+rotating -3
+ok: 0
+5
+rotating -24
+ok: 1
+81
+rotating -81
+ok: 0
+0
+rotating -88
+ok: 1
+12
+rotating 88
+ok: 1
+0
+rotating -58
+ok: 1
+42
+rotating 27
+ok: 0
+69
+rotating 31
+ok: 1
+0
+rotating -28
+ok: 1
+72
+rotating -38
+ok: 0
+34
+rotating 250
+ok: 2
+84
+rotating -54
+ok: 0
+30
+rotating -243
+ok: -1
+87
+rotating -40
+ok: 0
+47
+rotating 68
+ok: 1
+15
+rotating -15
+ok: 0
+0
+rotating -44
+ok: 1
+56
+rotating 944
+ok: 10
+0
+rotating -75
+ok: 1
+25
+rotating -83
+ok: 1
+42
+rotating -227
+ok: 0
+15
+rotating 31
+ok: 0
+46
+rotating 92
+ok: 1
+38
+rotating -4
+ok: 0
+34
+rotating -82
+ok: 1
+52
+rotating 48
+ok: 1
+0
+rotating -92
+ok: 1
+8
+rotating -744
+ok: -6
+64
+rotating 61
+ok: 1
+25
+rotating 1
+ok: 0
+26
+rotating -98
+ok: 1
+28
+rotating -54
+ok: 1
+74
+rotating 26
+ok: 1
+0
+rotating 47
+ok: 0
+47
+rotating -25
+ok: 0
+22
+rotating 75
+ok: 0
+97
+rotating 50
+ok: 1
+47
+rotating 34
+ok: 0
+81
+rotating -42
+ok: 0
+39
+rotating 18
+ok: 0
+57
+rotating -31
+ok: 0
+26
+rotating -26
+ok: 0
+0
+rotating -63
+ok: 1
+37
+rotating 855
+ok: 8
+92
+rotating -82
+ok: 0
+10
+rotating 6
+ok: 0
+16
+rotating 39
+ok: 0
+55
+rotating -55
+ok: 0
+0
+rotating -72
+ok: 1
+28
+rotating 58
+ok: 0
+86
+rotating -958
+ok: -7
+28
+rotating 954
+ok: 9
+82
+rotating 20
+ok: 1
+2
+rotating -2
+ok: 0
+0
+rotating 60
+ok: 0
+60
+rotating -98
+ok: 1
+62
+rotating -62
+ok: 0
+0
+rotating -36
+ok: 1
+64
+rotating 37
+ok: 1
+1
+rotating 89
+ok: 0
+90
+rotating 1
+ok: 0
+91
+rotating -90
+ok: 0
+1
+rotating 99
+ok: 1
+0
+rotating -40
+ok: 1
+60
+rotating 68
+ok: 1
+28
+rotating -61
+ok: 1
+67
+rotating -90
+ok: 1
+77
+rotating 108
+ok: 1
+85
+rotating 98
+ok: 1
+83
+rotating 56
+ok: 1
+39
+rotating -639
+ok: -6
+0
+rotating -50
+ok: 1
+50
+rotating 91
+ok: 1
+41
+rotating -541
+ok: -5
+0
+rotating -23
+ok: 1
+77
+rotating -77
+ok: 0
+0
+rotating 54
+ok: 0
+54
+rotating -54
+ok: 0
+0
+rotating 48
+ok: 0
+48
+rotating -48
+ok: 0
+0
+rotating -119
+ok: 0
+81
+rotating 73
+ok: 1
+54
+rotating -12
+ok: 0
+42
+rotating 438
+ok: 4
+80
+rotating 78
+ok: 1
+58
+rotating 642
+ok: 7
+0
+rotating 26
+ok: 0
+26
+rotating -78
+ok: 1
+48
+rotating 52
+ok: 1
+0
+rotating 1
+ok: 0
+1
+rotating -48
+ok: 1
+53
+rotating 67
+ok: 1
+20
+rotating -20
+ok: 0
+0
+rotating -945
+ok: -8
+55
+rotating 89
+ok: 1
+44
+rotating -44
+ok: 0
+0
+rotating 5
+ok: 0
+5
+rotating -233
+ok: -1
+72
+rotating -72
+ok: 0
+0
+rotating 12
+ok: 0
+12
+rotating -924
+ok: -8
+88
+rotating 99
+ok: 1
+87
+rotating -53
+ok: 0
+34
+rotating 79
+ok: 1
+13
+rotating -13
+ok: 0
+0
+rotating 90
+ok: 0
+90
+rotating 62
+ok: 1
+52
+rotating 78
+ok: 1
+30
+rotating 22
+ok: 0
+52
+rotating -24
+ok: 0
+28
+rotating -28
+ok: 0
+0
+rotating 927
+ok: 9
+27
+rotating -1
+ok: 0
+26
+rotating 72
+ok: 0
+98
+rotating -97
+ok: 0
+1
+rotating 99
+ok: 1
+0
+rotating -605
+ok: -5
+95
+rotating -30
+ok: 0
+65
+rotating -65
+ok: 0
+0
+rotating -45
+ok: 1
+55
+rotating -55
+ok: 0
+0
+rotating 3
+ok: 0
+3
+rotating 72
+ok: 0
+75
+rotating -75
+ok: 0
+0
+rotating -92
+ok: 1
+8
+rotating 50
+ok: 0
+58
+rotating -44
+ok: 0
+14
+rotating -14
+ok: 0
+0
+rotating 24
+ok: 0
+24
+rotating -724
+ok: -7
+0
+rotating 39
+ok: 0
+39
+rotating -27
+ok: 0
+12
+rotating 94
+ok: 1
+6
+rotating -6
+ok: 0
+0
+rotating 726
+ok: 7
+26
+rotating 57
+ok: 0
+83
+rotating -183
+ok: -1
+0
+rotating 35
+ok: 0
+35
+rotating 24
+ok: 0
+59
+rotating -7
+ok: 0
+52
+rotating 11
+ok: 0
+63
+rotating -63
+ok: 0
+0
+rotating 85
+ok: 0
+85
+rotating -35
+ok: 0
+50
+rotating 450
+ok: 5
+0
+rotating 58
+ok: 0
+58
+rotating 53
+ok: 1
+11
+rotating -89
+ok: 1
+22
+rotating -22
+ok: 0
+0
+rotating -22
+ok: 1
+78
+rotating 730
+ok: 8
+8
+rotating 92
+ok: 1
+0
+rotating 393
+ok: 3
+93
+rotating -93
+ok: 0
+0
+rotating -93
+ok: 1
+7
+rotating 993
+ok: 10
+0
+rotating 63
+ok: 0
+63
+rotating -75
+ok: 1
+88
+rotating -93
+ok: 1
+95
+rotating -61
+ok: 0
+34
+rotating -69
+ok: 1
+65
+rotating -65
+ok: 0
+0
+rotating 344
+ok: 3
+44
+rotating 47
+ok: 0
+91
+rotating -4
+ok: 0
+87
+rotating -87
+ok: 0
+0
+rotating -93
+ok: 1
+7
+rotating -92
+ok: 1
+15
+rotating -15
+ok: 0
+0
+rotating -71
+ok: 1
+29
+rotating -43
+ok: 1
+86
+rotating 33
+ok: 1
+19
+rotating 81
+ok: 1
+0
+rotating 47
+ok: 0
+47
+rotating 26
+ok: 0
+73
+rotating 18
+ok: 0
+91
+rotating 8
+ok: 0
+99
+rotating 1
+ok: 1
+0
+rotating -31
+ok: 1
+69
+rotating -75
+ok: 1
+94
+rotating -7
+ok: 0
+87
+rotating 13
+ok: 1
+0
+rotating 61
+ok: 0
+61
+rotating 39
+ok: 1
+0
+rotating 52
+ok: 0
+52
+rotating -31
+ok: 0
+21
+rotating 51
+ok: 0
+72
+rotating 69
+ok: 1
+41
+rotating -22
+ok: 0
+19
+rotating -19
+ok: 0
+0
+rotating -53
+ok: 1
+47
+rotating -70
+ok: 1
+77
+rotating 23
+ok: 1
+0
+rotating 940
+ok: 9
+40
+rotating 64
+ok: 1
+4
+rotating 96
+ok: 1
+0
+rotating 20
+ok: 0
+20
+rotating 96
+ok: 1
+16
+rotating -48
+ok: 1
+68
+rotating -756
+ok: -5
+12
+rotating 457
+ok: 4
+69
+rotating -69
+ok: 0
+0
+rotating -98
+ok: 1
+2
+rotating 93
+ok: 0
+95
+rotating -30
+ok: 0
+65
+rotating 12
+ok: 0
+77
+rotating 23
+ok: 1
+0
+rotating 22
+ok: 0
+22
+rotating 38
+ok: 0
+60
+rotating 11
+ok: 0
+71
+rotating -350
+ok: -1
+21
+rotating 30
+ok: 0
+51
+rotating -51
+ok: 0
+0
+rotating 33
+ok: 0
+33
+rotating 728
+ok: 7
+61
+rotating 39
+ok: 1
+0
+rotating -856
+ok: -7
+44
+rotating 656
+ok: 7
+0
+rotating -74
+ok: 1
+26
+rotating 502
+ok: 5
+28
+rotating -66
+ok: 1
+62
+rotating -262
+ok: -2
+0
+rotating 67
+ok: 0
+67
+rotating -297
+ok: -1
+70
+rotating 46
+ok: 1
+16
+rotating -511
+ok: -3
+5
+rotating 95
+ok: 1
+0
+rotating -38
+ok: 1
+62
+rotating 39
+ok: 1
+1
+rotating 325
+ok: 3
+26
+rotating 88
+ok: 1
+14
+rotating -58
+ok: 1
+56
+rotating 24
+ok: 0
+80
+rotating -54
+ok: 0
+26
+rotating 74
+ok: 1
+0
+rotating -23
+ok: 1
+77
+rotating 23
+ok: 1
+0
+rotating 69
+ok: 0
+69
+rotating -60
+ok: 0
+9
+rotating 18
+ok: 0
+27
+rotating 110
+ok: 1
+37
+rotating 198
+ok: 2
+35
+rotating -11
+ok: 0
+24
+rotating 22
+ok: 0
+46
+rotating -337
+ok: -1
+9
+rotating -23
+ok: 1
+86
+rotating -73
+ok: 0
+13
+rotating -82
+ok: 1
+31
+rotating -11
+ok: 0
+20
+rotating 13
+ok: 0
+33
+rotating -27
+ok: 0
+6
+rotating 41
+ok: 0
+47
+rotating -21
+ok: 0
+26
+rotating -26
+ok: 0
+0
+rotating -3
+ok: 1
+97
+rotating 3
+ok: 1
+0
+rotating -625
+ok: -5
+75
+rotating -863
+ok: -6
+12
+rotating -494
+ok: -3
+18
+rotating -18
+ok: 0
+0
+rotating -449
+ok: -3
+51
+rotating -586
+ok: -4
+65
+rotating -46
+ok: 0
+19
+rotating 81
+ok: 1
+0
+rotating 86
+ok: 0
+86
+rotating -27
+ok: 0
+59
+rotating 32
+ok: 0
+91
+rotating -91
+ok: 0
+0
+rotating -25
+ok: 1
+75
+rotating 89
+ok: 1
+64
+rotating -13
+ok: 0
+51
+rotating 8
+ok: 0
+59
+rotating -80
+ok: 1
+79
+rotating -908
+ok: -7
+71
+rotating 54
+ok: 1
+25
+rotating -455
+ok: -3
+70
+rotating -86
+ok: 1
+84
+rotating 83
+ok: 1
+67
+rotating -380
+ok: -2
+87
+rotating -467
+ok: -2
+20
+rotating -10
+ok: 0
+10
+rotating 21
+ok: 0
+31
+rotating 69
+ok: 1
+0
+rotating -18
+ok: 1
+82
+rotating -42
+ok: 0
+40
+rotating -29
+ok: 0
+11
+rotating -11
+ok: 0
+0
+rotating 65
+ok: 0
+65
+rotating -34
+ok: 0
+31
+rotating -115
+ok: 1
+16
+rotating -516
+ok: -5
+0
+rotating 47
+ok: 0
+47
+rotating 830
+ok: 8
+77
+rotating -77
+ok: 0
+0
+rotating -96
+ok: 1
+4
+rotating 53
+ok: 0
+57
+rotating -57
+ok: 0
+0
+rotating -90
+ok: 1
+10
+rotating 22
+ok: 0
+32
+rotating 68
+ok: 1
+0
+rotating 602
+ok: 6
+2
+rotating 88
+ok: 0
+90
+rotating -20
+ok: 0
+70
+rotating -75
+ok: 1
+95
+rotating -695
+ok: -6
+0
+rotating -528
+ok: -4
+72
+rotating -74
+ok: 1
+98
+rotating 53
+ok: 1
+51
+rotating -75
+ok: 1
+76
+rotating -3
+ok: 0
+73
+rotating -2
+ok: 0
+71
+rotating -71
+ok: 0
+0
+rotating 28
+ok: 0
+28
+rotating -65
+ok: 1
+63
+rotating 55
+ok: 1
+18
+rotating -10
+ok: 0
+8
+rotating 492
+ok: 5
+0
+rotating -6
+ok: 1
+94
+rotating 325
+ok: 4
+19
+rotating 20
+ok: 0
+39
+rotating -39
+ok: 0
+0
+rotating 48
+ok: 0
+48
+rotating -209
+ok: 0
+39
+rotating -10
+ok: 0
+29
+rotating 7
+ok: 0
+36
+rotating 16
+ok: 0
+52
+rotating -584
+ok: -4
+68
+rotating 61
+ok: 1
+29
+rotating 925
+ok: 9
+54
+rotating -54
+ok: 0
+0
+rotating 44
+ok: 0
+44
+rotating -44
+ok: 0
+0
+rotating 105
+ok: 1
+5
+rotating -168
+ok: 0
+37
+rotating -68
+ok: 1
+69
+rotating -986
+ok: -8
+83
+rotating -2
+ok: 0
+81
+rotating -55
+ok: 0
+26
+rotating 66
+ok: 0
+92
+rotating -773
+ok: -5
+19
+rotating 53
+ok: 0
+72
+rotating 428
+ok: 5
+0
+rotating -53
+ok: 1
+47
+rotating 39
+ok: 0
+86
+rotating 899
+ok: 9
+85
+rotating -185
+ok: -1
+0
+rotating 88
+ok: 0
+88
+rotating -203
+ok: 0
+85
+rotating -85
+ok: 0
+0
+rotating 53
+ok: 0
+53
+rotating -29
+ok: 0
+24
+rotating -52
+ok: 1
+72
+rotating -14
+ok: 0
+58
+rotating -196
+ok: 0
+62
+rotating 38
+ok: 1
+0
+rotating -5
+ok: 1
+95
+rotating -21
+ok: 0
+74
+rotating -25
+ok: 0
+49
+rotating -65
+ok: 1
+84
+rotating -510
+ok: -3
+74
+rotating -77
+ok: 1
+97
+rotating -587
+ok: -3
+10
+rotating -39
+ok: 1
+71
+rotating 529
+ok: 6
+0
+rotating 50
+ok: 0
+50
+rotating -50
+ok: 0
+0
+rotating -92
+ok: 1
+8
+rotating 15
+ok: 0
+23
+rotating 77
+ok: 1
+0
+rotating -23
+ok: 1
+77
+rotating -80
+ok: 1
+97
+rotating 3
+ok: 1
+0
+rotating 25
+ok: 0
+25
+rotating -91
+ok: 1
+34
+rotating 66
+ok: 1
+0
+rotating 59
+ok: 0
+59
+rotating -92
+ok: 1
+67
+rotating -79
+ok: 1
+88
+rotating 68
+ok: 1
+56
+rotating 44
+ok: 1
+0
+rotating 96
+ok: 0
+96
+rotating 36
+ok: 1
+32
+rotating -59
+ok: 1
+73
+rotating -14
+ok: 0
+59
+rotating -93
+ok: 1
+66
+rotating -19
+ok: 0
+47
+rotating 55
+ok: 1
+2
+rotating 33
+ok: 0
+35
+rotating -92
+ok: 1
+43
+rotating -3
+ok: 0
+40
+rotating 87
+ok: 1
+27
+rotating 67
+ok: 0
+94
+rotating -94
+ok: 0
+0
+rotating 35
+ok: 0
+35
+rotating 60
+ok: 0
+95
+rotating -16
+ok: 0
+79
+rotating -40
+ok: 0
+39
+rotating 25
+ok: 0
+64
+rotating -63
+ok: 0
+1
+rotating 33
+ok: 0
+34
+rotating 66
+ok: 1
+0
+rotating -2
+ok: 1
+98
+rotating 58
+ok: 1
+56
+rotating 44
+ok: 1
+0
+rotating 34
+ok: 0
+34
+rotating 91
+ok: 1
+25
+rotating -5
+ok: 0
+20
+rotating 11
+ok: 0
+31
+rotating 57
+ok: 0
+88
+rotating -88
+ok: 0
+0
+rotating -62
+ok: 1
+38
+rotating -38
+ok: 0
+0
+rotating -19
+ok: 1
+81
+rotating -64
+ok: 0
+17
+rotating 83
+ok: 1
+0
+rotating -58
+ok: 1
+42
+rotating 58
+ok: 1
+0
+rotating -12
+ok: 1
+88
+rotating 81
+ok: 1
+69
+rotating 31
+ok: 1
+0
+rotating 87
+ok: 0
+87
+rotating -25
+ok: 0
+62
+rotating -30
+ok: 0
+32
+rotating 11
+ok: 0
+43
+rotating -47
+ok: 1
+96
+rotating 15
+ok: 1
+11
+rotating 31
+ok: 0
+42
+rotating -26
+ok: 0
+16
+rotating -46
+ok: 1
+70
+rotating -16
+ok: 0
+54
+rotating 44
+ok: 0
+98
+rotating 10
+ok: 1
+8
+rotating 32
+ok: 0
+40
+rotating -1
+ok: 0
+39
+rotating 39
+ok: 0
+78
+rotating -45
+ok: 0
+33
+rotating 23
+ok: 0
+56
+rotating 41
+ok: 0
+97
+rotating -10
+ok: 0
+87
+rotating 37
+ok: 1
+24
+rotating 1
+ok: 0
+25
+rotating -1
+ok: 0
+24
+rotating -5
+ok: 0
+19
+rotating 48
+ok: 0
+67
+rotating -9
+ok: 0
+58
+rotating -45
+ok: 0
+13
+rotating -9
+ok: 0
+4
+rotating -15
+ok: 1
+89
+rotating -8
+ok: 0
+81
+rotating -20
+ok: 0
+61
+rotating 23
+ok: 0
+84
+rotating -30
+ok: 0
+54
+rotating 6
+ok: 0
+60
+rotating 27
+ok: 0
+87
+rotating 49
+ok: 1
+36
+rotating -15
+ok: 0
+21
+rotating 28
+ok: 0
+49
+rotating 33
+ok: 0
+82
+rotating 4
+ok: 0
+86
+rotating -21
+ok: 0
+65
+rotating -12
+ok: 0
+53
+rotating 15
+ok: 0
+68
+rotating -8
+ok: 0
+60
+rotating -9
+ok: 0
+51
+rotating -27
+ok: 0
+24
+rotating 19
+ok: 0
+43
+rotating 2
+ok: 0
+45
+rotating -23
+ok: 0
+22
+rotating 26
+ok: 0
+48
+rotating 15
+ok: 0
+63
+rotating -28
+ok: 0
+35
+day 01 part 02 result: 2332
+Hello, world!
