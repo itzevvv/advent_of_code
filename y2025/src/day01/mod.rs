@@ -61,22 +61,30 @@ pub fn part_two(input : Vec<String>) -> i32 {
         }
         
         println!("rotating {offset}");
-        
-        let mut full_rotations = (dial + offset) / 100;
+
+        let mut passed_zeroes = (dial + offset).abs() / 100;
         let remainder = (dial + offset) % 100;
 
-        if remainder < 0 || remainder >= 100 {
-            full_rotations += 1;
+        if mod_wrap(dial + offset) != 0 && remainder < 0 && dial != 0 || remainder >= 100 && dial != 99 {
+            passed_zeroes += 1;
         }
+        //let mut passed_zeroes = ((dial + offset).abs()) / 100;
 
-        println!("ok: {full_rotations}");
+        println!("ok: {passed_zeroes}");
+
+        let dial_old = dial;
 
         dial = mod_wrap(dial + offset);
         println!("{dial}");
 
+        if dial == 0 && dial_old != 0 {
+            println!("at zero");
+            passed_zeroes += 1;
+        }
+
         if dial < 0 || dial > 99 { panic!("uh oh!") }
 
-        zeroes += full_rotations;
+        zeroes += passed_zeroes;
     }
 
     return zeroes
