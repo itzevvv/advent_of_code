@@ -1,5 +1,3 @@
-use std::collections::HashMap;
-
 pub fn d01_test_input() -> Vec<String> {
     vec![
         "L68".to_string(),
@@ -106,53 +104,3 @@ fn mod_wrap(input : i32) -> i32 {
 
    result
 }
-
-fn mod_wrap_zeroes(input : i32) -> (i32, i32) {
-    let mut result = input % 100;
-    let mut zeroes = result / 100;
-
-    if zeroes < 1 && result < 0 {
-        zeroes += 1;
-    }
-
-    println!("{zeroes} zeroes");
-    
-    if result < 0 {
-        result = 100 - result.abs()
-    }
-
-    (result, zeroes)
-}
-/*
-
-    The dial starts by pointing at 50.
-    The dial is rotated L68 to point at 82; during this rotation, it points at 0 once.
-    The dial is rotated L30 to point at 52.
-    The dial is rotated R48 to point at 0.
-    The dial is rotated L5 to point at 95.
-    The dial is rotated R60 to point at 55; during this rotation, it points at 0 once.
-    The dial is rotated L55 to point at 0.
-    The dial is rotated L1 to point at 99.
-    The dial is rotated L99 to point at 0.
-    The dial is rotated R14 to point at 14.
-    The dial is rotated L82 to point at 32; during this rotation, it points at 0 once.
-
-*/
-
-/*
-
-    - Check if operation goes under 0 or goes over 99
-    - Do something to figure out how many times ( div? mod? )
-    - Make sure that 0 passes + 0 totals = right amount
-
-*/
-
-/*
-    50
-    68 - 50 -> goes under, so at least one 0.
-        - raw res = 18, under 99. only once
-    82
-    30 - 82 -> does NOT go under or over.
-    52
-
-*/
