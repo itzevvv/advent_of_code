@@ -1,4 +1,5 @@
 pub mod day01;
+pub mod day02;
 
 #[cfg(test)]
 mod tests {
@@ -36,5 +37,11 @@ mod tests {
         println!("\n");
         
         assert_eq!(result, 6)
+    }
+
+    #[test]
+    fn day_two_part_one() {
+        let res_part01 = day02::part_one(day02::D02_INPUT);
+        assert_eq!(res_part01, 1227775554);
     }
 }

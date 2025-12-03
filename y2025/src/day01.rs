@@ -73,8 +73,8 @@ pub fn part_two(input : &Vec<String>) -> i32 {
 }
 
 pub fn day_one() {
-    println!("=== Year 2025 Day 1 ===\n");
-    let input = common::read_file("input/y2025/day01.txt");
+    println!("=== Day 01");
+    let input = common::read_file_as_lines("input/y2025/day01.txt");
     let res_d01p01 = part_one(&input);
     println!("day 01 part 01 result: {res_d01p01}");
 
