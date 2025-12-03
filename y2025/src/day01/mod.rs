@@ -62,29 +62,19 @@ pub fn part_two(input : Vec<String>) -> i32 {
         
         println!("rotating {offset}");
 
-        let mut passed_zeroes = (dial + offset).abs() / 100;
-        let remainder = (dial + offset) % 100;
-
-        if mod_wrap(dial + offset) != 0 && remainder < 0 && dial != 0 || remainder >= 100 && dial != 99 {
-            passed_zeroes += 1;
-        }
-        //let mut passed_zeroes = ((dial + offset).abs()) / 100;
-
-        println!("ok: {passed_zeroes}");
-
-        let dial_old = dial;
-
-        dial = mod_wrap(dial + offset);
-        println!("{dial}");
-
-        if dial == 0 && dial_old != 0 {
-            println!("at zero");
-            passed_zeroes += 1;
+        if dial == 0 && offset < 0 {
+            zeroes -= 1;
         }
 
-        if dial < 0 || dial > 99 { panic!("uh oh!") }
+        dial += offset;
 
-        zeroes += passed_zeroes;
+        zeroes += dial.div_euclid(100).abs();
+        dial = dial.rem_euclid(100);
+
+        if dial == 0 && offset < 0 {
+            println!("gained a zero");
+            zeroes += 1;
+        }
     }
 
     return zeroes
@@ -95,8 +85,8 @@ pub fn day_one() {
     let a = ((345 % 50) + 50) % 50;
     println!("{a}\nboobs\n\n\n");
 
-    //let res_d01p01 = part_one(common::read_file("input/y2025/day01.txt"));
-    //println!("day 01 part 01 result: {res_d01p01}");
+    let res_d01p01 = part_one(common::read_file("input/y2025/day01.txt"));
+    println!("day 01 part 01 result: {res_d01p01}");
 
     let res_d01p02 = part_two(common::read_file("input/y2025/day01.txt"));
     println!("day 01 part 02 result: {res_d01p02}");
