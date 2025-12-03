@@ -13,7 +13,7 @@ pub fn d01_test_input() -> Vec<String> {
     ]
 }
 
-pub fn part_one(input : Vec<String>) -> i32 {
+pub fn part_one(input : &Vec<String>) -> i32 {
     let mut dial = 50;
     let mut zeroes = 0;
     
@@ -45,7 +45,7 @@ pub fn part_one(input : Vec<String>) -> i32 {
     return zeroes
 }
 
-pub fn part_two(input : Vec<String>) -> i32 {
+pub fn part_two(input : &Vec<String>) -> i32 {
     let mut dial = 50;
     let mut zeroes = 0;
     
@@ -59,8 +59,6 @@ pub fn part_two(input : Vec<String>) -> i32 {
         if rotation.starts_with('L') {
             offset = -offset;
         }
-        
-        println!("rotating {offset}");
 
         if dial == 0 && offset < 0 {
             zeroes -= 1;
@@ -72,7 +70,6 @@ pub fn part_two(input : Vec<String>) -> i32 {
         dial = dial.rem_euclid(100);
 
         if dial == 0 && offset < 0 {
-            println!("gained a zero");
             zeroes += 1;
         }
     }
@@ -82,13 +79,11 @@ pub fn part_two(input : Vec<String>) -> i32 {
 
 pub fn day_one() {
     println!("=== Year 2025 Day 1 ===\n");
-    let a = ((345 % 50) + 50) % 50;
-    println!("{a}\nboobs\n\n\n");
-
-    let res_d01p01 = part_one(common::read_file("input/y2025/day01.txt"));
+    let input = common::read_file("input/y2025/day01.txt");
+    let res_d01p01 = part_one(&input);
     println!("day 01 part 01 result: {res_d01p01}");
 
-    let res_d01p02 = part_two(common::read_file("input/y2025/day01.txt"));
+    let res_d01p02 = part_two(&input);
     println!("day 01 part 02 result: {res_d01p02}");
 }
 
