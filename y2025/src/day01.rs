@@ -27,18 +27,13 @@ pub fn part_one(input : &Vec<String>) -> i32 {
         if rotation.starts_with('L') {
             offset = -offset;
         }
-        
-        println!("rotating {offset}");
-        
-        dial = mod_wrap(dial + offset);
-        println!("{dial}");
 
+        dial = (dial + offset).rem_euclid(100);
+        
         if dial < 0 || dial > 99 { panic!("uh oh!") }
 
         if dial == 0 {
             zeroes += 1;
-
-            println!("{zeroes} zeroes")
         }
     }
 
@@ -85,15 +80,4 @@ pub fn day_one() {
 
     let res_d01p02 = part_two(&input);
     println!("day 01 part 02 result: {res_d01p02}");
-}
-
-fn mod_wrap(input : i32) -> i32 {
-   let mut result = input % 100;
-
-   if result < 0 {
-    // do something?
-    result = 100 - result.abs()
-   }
-
-   result
 }
