@@ -44,4 +44,10 @@ mod tests {
         let res_part01 = day02::part_one(day02::D02_INPUT);
         assert_eq!(res_part01, 1227775554);
     }
+
+    #[test]
+    fn day_two_part_two() {
+        let res_part02 = day02::part_two(day02::D02_INPUT);
+        assert_eq!(res_part02, 4174379265);
+    }
 }
