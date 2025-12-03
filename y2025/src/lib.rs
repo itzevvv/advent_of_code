@@ -1,5 +1,6 @@
 pub mod day01;
 pub mod day02;
+pub mod day03;
 
 #[cfg(test)]
 mod tests {
@@ -49,5 +50,11 @@ mod tests {
     fn day_two_part_two() {
         let res_part02 = day02::part_two(day02::D02_INPUT);
         assert_eq!(res_part02, 4174379265);
+    }
+
+    #[test]
+    fn day_three_part_one() {
+        let result = day03::part_one(day03::day03_input());
+        assert_eq!(result, 357);
     }
 }
